@@ -1,0 +1,220 @@
+{
+  "title": [
+    "/FaceSet/000009.xyz",
+    "/Sound/BBBBBBBBB3.opus",
+    "/Sound/000367.opus",
+    "/Sound/000000000273.opus"
+  ],
+  "0003": [
+    "*/CharSet/00000000088.png",
+    "*/Picture/000050.xyz",
+    "/Picture/0000000000000150.xyz",
+    "/Picture/00000000000000000152.xyz",
+    "/Picture/BBBBBBBBBBBBBBBBBBBBBBB1.xyz",
+    "/Picture/0000000000000000000149.xyz",
+    "*/CharSet/00000000085.png",
+    "/Sound/00000433.opus",
+    "*/CharSet/00000000091.png"
+  ],
+  "0007/0008": [
+    "*/FaceSet/000010.xyz",
+    "/FaceSet/000011.xyz",
+    "*/CharSet/00000000092.png",
+    "/CharSet/00000000090.png",
+    "/CharSet/00000000089.png",
+    "/CharSet/00000000087.png",
+    "*/Sound/A5.opus",
+    "/Sound/A4.opus",
+    "/Sound/A7.opus",
+    "/Sound/000236.opus",
+    "/Sound/00000432.opus",
+    "/Sound/000492.opus",
+    "/Sound/0000000232.opus",
+    "/Sound/00000270.opus",
+    "/Sound/0464.opus",
+    "/Sound/0465.opus",
+    "/Sound/0466.opus",
+    "/Sound/0467.opus",
+    "/Sound/0468.opus",
+    "/Sound/00000237.opus",
+    "/Sound/0507.opus",
+    "/Sound/0480.opus",
+    "/Sound/00000249.opus",
+    "/Sound/0518.opus",
+    "/Sound/00000430.opus",
+    "/Sound/0000000288.opus",
+    "/Sound/000289.opus",
+    "/Sound/000320.opus",
+    "*/Battle/0000000083.xyz",
+    "*/CharSet/0000000000000095.png",
+    "/CharSet/0000000000000096.png",
+    "/CharSet/0000000000000097.png",
+    "*/CharSet/0000000082.png"
+  ],
+  "0009": [
+    "/CharSet/000000000040.png",
+    "/CharSet/000000000041.png",
+    "/CharSet/000000000042.png",
+    "/CharSet/000000000050.png"
+  ],
+  "0010": [
+    "/Sound/0331.opus",
+    "/Picture/0000000000122.xyz",
+    "/Picture/000000000121.xyz",
+    "/Map0041.lmu",
+    "/ChipSet/0000044.xyz",
+    "/CharSet/000000000036.png",
+    "/CharSet/000000000049.png"
+  ],
+  "0019": [
+    "/Map0118.lmu",
+    "/Panorama/0000020.xyz",
+    "/Panorama/000050.xyz"
+  ],
+  "0033": [
+    "/Picture/000050.xyz",
+    "/Picture/000168.xyz",
+    "/Picture/000169.xyz",
+    "/Picture/000170.xyz",
+    "/Picture/000171.xyz",
+    "/Picture/000172.xyz",
+    "/Picture/000173.xyz",
+    "/Picture/000174.xyz",
+    "/Picture/000175.xyz"
+  ],
+  "0041": [
+    "/Map0010.lmu",
+    "/Panorama/00000059.xyz",
+    "/ChipSet/000007.xyz"
+  ],
+  "0042": [
+    "/Map0043.lmu"
+  ],
+  "0044": [
+    "/Map0045.lmu"
+  ],
+  "0045": [
+    "/Map0046.lmu",
+    "/CharSet/000000000053.png"
+  ],
+  "0049": [
+    "/ChipSet/00000048.xyz",
+    "/Sound/00000435.opus"
+  ],
+  "0057": [
+    "/Map0144.lmu",
+    "/Panorama/0000020.xyz",
+    "/Panorama/000050.xyz"
+  ],
+  "0058": [
+    "/Map0060.lmu"
+  ],
+  "0060": [
+    "/Map0059.lmu",
+    "/CharSet/000000000058.png"
+  ],
+  "0073/0074/0075": [
+    "/Sound/000394.opus"
+  ],
+  "0073": [
+    "/Picture/000000067.xyz",
+    "/Picture/000000068.xyz",
+    "/Picture/000000069.xyz",
+    "/Picture/000000070.xyz",
+    "/Picture/000000071.xyz"
+  ],
+  "0074": [
+    "/Picture/000000072.xyz",
+    "/Picture/000000073.xyz"
+  ],
+  "0075": [
+    "/Picture/000000075.xyz",
+    "/Picture/000000074.xyz"
+  ],
+  "0081": [
+    "/Panorama/000000053.xyz",
+    "/Sound/000313.opus",
+    "/Map0083.lmu",
+    "/Panorama/00000064.xyz",
+    "/ChipSet/000029.xyz",
+    "/CharSet/000000000049.png"
+  ],
+  "0094": [
+    "/Map0099.lmu",
+    "/CharSet/000000000054.png"
+  ],
+  "0118/0122": [
+    "/Music/0000000000271.opus"
+  ],
+  "0120/0145/0154": [
+    "*/Picture/00000000000049.xyz",
+    "/Picture/000000000048.xyz",
+    "/Picture/00000064.xyz",
+    "*/Picture/0000000126.xyz",
+    "/Picture/000120.xyz",
+    "/Picture/0123.xyz",
+    "/Picture/00000185.xyz",
+    "/Picture/00000147.xyz",
+    "/Picture/0000000136.xyz",
+    "/Picture/0000000133.xyz",
+    "/Picture/0000000135.xyz",
+    "/Picture/000132.xyz",
+    "/Picture/000124.xyz",
+    "/Picture/0131.xyz",
+    "/Picture/000146.xyz",
+    "/Picture/000000000130.xyz",
+    "/Picture/00000128.xyz",
+    "/Picture/000145.xyz",
+    "/Picture/0129.xyz",
+    "/Picture/00000127.xyz",
+    "/Picture/000163.xyz",
+    "/Picture/000139.xyz",
+    "/Picture/00000153.xyz",
+    "/Picture/000116.xyz",
+    "/Picture/000134.xyz",
+    "/Picture/0119.xyz",
+    "/Picture/00000125.xyz",
+    "*/Picture/000053.xyz",
+    "*/CharSet/00000000000000024.png",
+    "/CharSet/00000000000000025.png",
+    "/CharSet/00000000000000028.png",
+    "/CharSet/00000000000000022.png",
+    "/CharSet/00000000000000026.png",
+    "/CharSet/00000000000000027.png",
+    "*/CharSet/0000000000000000000029.png",
+    "/CharSet/0000000000000000000030.png",
+    "/CharSet/0000000000000000000031.png"
+  ],
+  "0166": [
+    "/Picture/00000176.xyz",
+    "/Picture/0000000000181.xyz",
+    "/Picture/0000000000182.xyz",
+    "/Picture/0000000000183.xyz",
+    "/Picture/0000000000184.xyz",
+    "/Panorama/00000000037.xyz"
+  ],
+  "0178": [
+    "/Map0179.lmu",
+    "/Picture/00000000000198.xyz",
+    "/Picture/00000000000199.xyz",
+    "/Picture/00000000000200.xyz",
+    "/Picture/00000000000186.xyz",
+    "/Picture/00000000000187.xyz",
+    "/Picture/00000000000188.xyz",
+    "/Picture/00000000000189.xyz",
+    "/Picture/00000000000190.xyz",
+    "/Picture/00000000000191.xyz",
+    "/Picture/00000000000195.xyz",
+    "/Picture/00000000000196.xyz",
+    "/Picture/00000000000197.xyz",
+    "/Picture/00000000000192.xyz",
+    "/Picture/00000000000193.xyz",
+    "/Picture/00000000000194.xyz",
+    "/Picture/00000000000201.xyz",
+    "/Picture/00000000000202.xyz",
+    "/Picture/00000000000203.xyz"
+  ],
+  "0179": [
+    "/Picture/00000000000154.xyz"
+  ]
+}

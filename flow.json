@@ -1,0 +1,293 @@
+{
+  "title": [
+    "/Sound/カーソル.opus",
+    "/Sound/ｹｯﾃｲ.opus",
+    "/Sound/ｷｬﾝｾﾙ.opus",
+    "/FaceSet/face.png",
+    "/FaceSet/face2.png"
+  ],
+  "0002": [
+    "*/CharSet/sabituki2.png",
+    "*/CharSet/sabituki tuneru.png",
+    "*/Picture/魚1.png",
+    "/Picture/魚2.png",
+    "/Picture/神速猫パンチ３.png",
+    "*/Map0004.lmu",
+    "/CharSet/イベント15.png"
+  ],
+  "0005/0222": [
+    "/Sound/noizu4.opus",
+    "/Picture/嘔吐.png"
+  ],
+  "0006/0222": [
+    "/Map0005.lmu",
+    "/ChipSet/other.png",
+    "/Panorama/entrance.bmp",
+    "/Panorama/entrance2.bmp",
+    "/Panorama/entrance3.bmp",
+    "/Panorama/entrance4.bmp",
+    "/Panorama/entrance5.bmp",
+    "/Panorama/entrance6.bmp",
+    "/Panorama/entrance orange.bmp"
+  ],
+  "0007": [
+    "*/CharSet/sabituki A5.png",
+    "/CharSet/sabituki4.png",
+    "/CharSet/sabituki A3.png",
+    "/CharSet/sabituki3.png",
+    "/CharSet/sabituki A.png",
+    "/CharSet/sabituki A2.png",
+    "/CharSet/sabituki A9.png",
+    "/CharSet/sabituki6.png",
+    "/CharSet/sabituki A4.png",
+    "/CharSet/sabituki A6.png",
+    "/CharSet/sabituki A12.png",
+    "/CharSet/sabituki A11.png",
+    "/CharSet/sabituki8.png",
+    "/CharSet/sabituki A10.png",
+    "*/CharSet/sabituki tuneru.png",
+    "/CharSet/sabituki tuneru2.png",
+    "/CharSet/sabituki tuneru3.png",
+    "/CharSet/sabituki tuneru4.png",
+    "*/Sound/efe.opus",
+    "/Sound/efekaijo.opus",
+    "/Sound/oto1.opus",
+    "/Sound/oto2.opus",
+    "/Sound/oto3.opus",
+    "/Sound/oto4.opus",
+    "/Sound/hikou.opus",
+    "/Sound/akatairu.opus",
+    "/Sound/ねこ.opus",
+    "/Sound/拳銃.opus",
+    "/Sound/ぐちゃっ.opus",
+    "*/Battle/anime2.png",
+    "/Battle/anime.png"
+  ],
+  "0012": [
+    "/Map0059.lmu"
+  ],
+  "0025": [
+    "/Map0106.lmu",
+    "/ChipSet/bluehole.png"
+  ],
+  "0027": [
+    "/Map0061.lmu",
+    "/Panorama/midori2.png",
+    "/ChipSet/サブマップ1.png"
+  ],
+  "0059": [
+    "/Sound/kon.opus",
+    "/Map0065.lmu",
+    "/Music/bgm6.opus"
+  ],
+  "0063": [
+    "/Sound/noizu.opus",
+    "/Picture/pic2.png",
+    "/Picture/pic1.png",
+    "/Picture/pic4.png",
+    "/Picture/pic5.png",
+    "/Picture/pic3.png"
+  ],
+  "0066": [
+    "/Map0068.lmu",
+    "/Sound/ご.opus",
+    "/Sound/鳴き声.opus",
+    "/Music/bgm11.opus",
+    "/CharSet/イベント2.png",
+    "/CharSet/nizi.png"
+  ],
+  "0067": [
+    "/Map0081.lmu"
+  ],
+  "0067/0181": [
+    "/Panorama/オレンジ背景-1.png",
+    "/Panorama/オレンジ背景-2.png",
+    "/Panorama/オレンジ背景-3.png",
+    "/Panorama/オレンジ背景-4.png",
+    "/Panorama/オレンジ背景-5.png",
+    "/Panorama/オレンジ背景2.png",
+    "/Panorama/オレンジ背景3.png",
+    "/Panorama/オレンジ背景4.png",
+    "/Panorama/オレンジ背景5.png",
+    "/Panorama/オレンジ背景6.png"
+  ],
+  "0074/0230": [
+    "*/CharSet/[fc]sabituki A4.png",
+    "/CharSet/[fc]sabituki3.png",
+    "/CharSet/[fc]sabituki A3.png",
+    "/CharSet/[fc]sabituki A2.png",
+    "/CharSet/[fc]sabituki A6.png",
+    "/CharSet/[fc]sabituki5.png",
+    "/CharSet/[fc]sabituki A5.png",
+    "/CharSet/[fc]sabituki A8.png",
+    "/CharSet/[fc]sabituki A7.png",
+    "/CharSet/[fc]sabituki6.png",
+    "*/CharSet/[fc]sabituki tuneru.png",
+    "/CharSet/[fc]sabituki tuneru2.png",
+    "/CharSet/[fc]sabituki tuneru4.png",
+    "/CharSet/[fc]sabituki tuneru5.png",
+    "*/Sound/拳銃fc.opus"
+  ],
+  "0087": [
+    "/Map0086.lmu"
+  ],
+  "0092": [
+    "/Music/lainbow2.opus",
+    "/Picture/ほうき飛行待機1.png",
+    "/Picture/ほうき飛行前進1.png",
+    "/Picture/ほうき飛行前進2.png",
+    "/Picture/ほうき飛行前進3.png",
+    "/Picture/ほうき飛行待機2.png",
+    "/Picture/ほうき飛行待機3.png",
+    "/Picture/蝶1.png",
+    "/Picture/蝶2.png",
+    "/Picture/蝶3.png",
+    "/Picture/蝶4.png",
+    "/Picture/ほうき飛行上昇1.png",
+    "/Picture/ほうき飛行上昇2.png",
+    "/Picture/ほうき飛行上昇3.png",
+    "/Picture/ほうき飛行後退1.png",
+    "/Picture/ほうき飛行後退2.png",
+    "/Picture/ほうき飛行後退3.png",
+    "/Picture/ほうき飛行下降1.png",
+    "/Picture/ほうき飛行下降2.png",
+    "/Picture/ほうき飛行下降3.png",
+    "/Picture/ミニ蝶a1.png",
+    "/Picture/ミニ蝶a2.png",
+    "/Picture/ミニ蝶a3.png",
+    "/Map0104.lmu"
+  ],
+  "0106": [
+    "/Map0025.lmu",
+    "/ChipSet/kaitei.png"
+  ],
+  "0118": [
+    "/Music/bgm6.opus"
+  ],
+  "0142": [
+    "*/Map0143.lmu",
+    "/Panorama/笑顔.png",
+    "/ChipSet/笑顔.png",
+    "*/Map0145.lmu",
+    "/Panorama/笑顔背景2.png",
+    "*/Map0147.lmu",
+    "/Panorama/白背景.png",
+    "/Picture/白.png"
+  ],
+  "0143": [
+    "/Map0144.lmu"
+  ],
+  "0145": [
+    "/Map0146.lmu"
+  ],
+  "0147": [
+    "/Map0148.lmu",
+    "/CharSet/kaibutu2.png"
+  ],
+  "0154": [
+    "/CharSet/sabituki A7.png",
+    "/CharSet/イベント8.png",
+    "/CharSet/sabituki0.png",
+    "/CharSet/sabituki A8.png"
+  ],
+  "0163": [
+    "/Music/bgm38.opus",
+    "/Picture/asdアニメ1.png",
+    "/Picture/asdアニメ2.png",
+    "/Picture/asdアニメ3.png",
+    "/Picture/asdアニメ4.png",
+    "/Picture/asdアニメ5.png",
+    "/Picture/asdアニメ6.png",
+    "/Picture/asdアニメ8.png",
+    "/Picture/asdアニメ9.png"
+  ],
+  "0179": [
+    "*/Panorama/植物煙突2.png",
+    "/Panorama/植物煙突3.png",
+    "/Panorama/植物煙突4.png",
+    "/Panorama/植物煙突5.png",
+    "/Panorama/植物煙突6.png",
+    "/Panorama/植物煙突7.png",
+    "/Panorama/植物煙突8.png",
+    "/Panorama/植物煙突9.png",
+    "/Panorama/植物煙突10.png",
+    "/Panorama/植物煙突11.png",
+    "/Panorama/植物煙突12.png",
+    "/Panorama/植物煙突13.png",
+    "/Panorama/植物煙突14.png",
+    "/Panorama/植物煙突15.png",
+    "/Panorama/植物煙突16.png",
+    "*/Map0185.lmu"
+  ],
+  "0199": [
+    "/Panorama/エレベーター3.png",
+    "/Panorama/エレベーター2.png",
+    "/Panorama/エレベーター.png",
+    "/Panorama/エレベーター5.png",
+    "/Panorama/エレベーター6.png",
+    "/Panorama/エレベーター7.png",
+    "/Panorama/エレベーター8.png",
+    "/Panorama/エレベーター9.png"
+  ],
+  "0225": [
+    "/Panorama/エレベーター3.png",
+    "/Panorama/エレベーター2.png",
+    "/Panorama/エレベーター.png",
+    "/Panorama/エレベーターrust1.png",
+    "/Panorama/エレベーターrust2.png",
+    "/Panorama/エレベーターrust3.png",
+    "/Panorama/エレベーターrust4.png",
+    "/Panorama/エレベーターrust5.png"
+  ],
+  "0240": [
+    "/Music/.flowbeet.opus"
+  ],
+  "0249": [
+    "/Picture/girl1.png",
+    "/Picture/girl2.png",
+    "/Picture/girl3.png",
+    "/Picture/girl4.png",
+    "/Picture/girl5.png",
+    "/Picture/girl6.png",
+    "/Picture/girl7.png",
+    "/Picture/girl8.png",
+    "/Picture/girl9.png",
+    "/Picture/girl10.png",
+    "/Picture/girl11.png",
+    "/Picture/girl12.png",
+    "/Picture/girl13.png",
+    "/Picture/girl14.png",
+    "/Picture/girl15.png",
+    "/Sound/声5_.opus",
+    "/Sound/声3_.opus"
+  ],
+  "event0261": [
+    "/Sound/noizu4.opus",
+    "/Sound/ざ.opus",
+    "/Picture/嘔吐２.png",
+    "/CharSet/イベント18.png",
+    "/CharSet/oreko.png",
+    "/CharSet/イベント5.png",
+    "/Picture/バグ.png",
+    "/CharSet/イベント6.png",
+    "/Picture/バグ2.png",
+    "/Picture/バグ3.png",
+    "/Picture/バグ4.png",
+    "/Picture/fcbf4.png",
+    "/CharSet/smile.png",
+    "/Picture/バグ5.png",
+    "/CharSet/錆3.png",
+    "/Picture/バグ6.png",
+    "/Picture/バグ7.png",
+    "/Sound/ぐちゃっ.opus"
+  ],
+  "0269": [
+    "/Panorama/girls2.png",
+    "/Panorama/girls3.png",
+    "/Panorama/girls4.png",
+    "/Map0264.lmu"
+  ],
+  "0291": [
+    "/Music/bgm54.opus"
+  ]
+}

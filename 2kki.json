@@ -1,5 +1,30 @@
 {
   "0002": [
+    "*/Picture/SR_+.png",
+    "/Picture/SR_-.png",
+    "/Picture/SR_0.png",
+    "/Picture/SR_1.png",
+    "/Picture/SR_2.png",
+    "/Picture/SR_3.png",
+    "/Picture/SR_4.png",
+    "/Picture/SR_5.png",
+    "/Picture/SR_6.png",
+    "/Picture/SR_7.png",
+    "/Picture/SR_8.png",
+    "/Picture/SR_9.png",
+    "*/Picture/pc yumegamen 01-5.png",
+    "/Picture/pc yumegamen 01-6.png",
+    "/Picture/pc yumegamen 01-8.png",
+    "/Picture/pc yumegamen 01-7.png",
+    "/Picture/pc yumegamen Window.png",
+    "/Picture/pc yumegamen 02-1.png",
+    "/Picture/pc yumegamen 02-2.png",
+    "/Picture/pc yumegamen 02-3.png",
+    "/Picture/pc yumegamen 02-4.png",
+    "/Picture/pc yumegamen Window tools wp_markNew.png",
+    "/Picture/pc yumegamen Window tools wp.png",
+    "/Picture/pc yumegamen Window tools word.png",
+    "/Picture/pc yumegamen sysB.png",
     "*/CharSet/syujinkou_act1.png",
     "/CharSet/syujinkou_act3.png",
     "*/Picture/tv waku_line.png",
@@ -74,6 +99,7 @@
   ],
   "0005": [
     "*/Picture/system-anime04-07.png",
+    "/Battle/system-anime04.png",
     "/Picture/system-anime04-10.png",
     "*/FaceSet/syujinkou2.png",
     "/FaceSet/syujinkou3.png",
@@ -270,13 +296,16 @@
     "/CharSet/2i9_charset21.png"
   ],
   "0015": [
+    "*/Map0232.lmu",
+    "/ChipSet/777Chip_Set_3.png"
+  ],
+  "0015/0441": [
     "*/Map0259.lmu",
     "/ChipSet/dedp_ChipSet_11.png",
     "/CharSet/oudn-charset09.png",
     "/CharSet/wataru モンスター３.png",
     "/CharSet/710_Charset_18.png",
-    "*/Map0232.lmu",
-    "/ChipSet/777Chip_Set_3.png"
+    "/CharSet/roda4can2.png"
   ],
   "0016": [
     "/Map0297.lmu",
@@ -508,6 +537,22 @@
   "0136": [
     "/Picture/dedp_TV_noize_big.png",
     "/Picture/dedp_mizu-2.png"
+  ],
+  "0142": [
+    "/Picture/kura-maze_F3+Stairs.png",
+    "/Picture/kura-maze_F5+Stairs.png",
+    "/Picture/kura-maze_R3+Stairs.png",
+    "/Picture/kura-maze_F4+Stairs.png",
+    "/Picture/kura-maze_F2+Stairs.png",
+    "/Picture/kura-maze_R1+Stairs.png",
+    "/Picture/kura-maze_L1+Stairs.png",
+    "/Picture/kura-maze_L3+Stairs.png",
+    "/Picture/kappa_kura-maze_F5+WallPaint.png",
+    "/Picture/kappa_kura-maze_F4+WallPaint.png",
+    "/Picture/kappa_kura-maze_F3+WallPaint.png",
+    "/Picture/kappa_kura-maze_F2+WallPaint.png",
+    "/Picture/kappa_kura-maze_R1+WallPaint.png",
+    "/Picture/kappa_kura-maze_L1+WallPaint.png"
   ],
   "0177": [
     "/CharSet/syujinkou_saba.png"
@@ -788,7 +833,13 @@
     "/CharSet/2i9_charset9.png"
   ],
   "0716": [
-    "/Music/spelude-hibinega.opus"
+    "*/Map0717.lmu",
+    "/ChipSet/ehon uxiru.png",
+    "/Panorama/水色の絵本.png",
+    "*/Music/spelude-hibinega.opus"
+  ],
+  "0735": [
+    "/Panorama/An_soutouB.png"
   ],
   "0764": [
     "/Map0765.lmu",
@@ -820,6 +871,9 @@
     "/ChipSet/2i9_chip7.png",
     "/Picture/kumo5.png"
     ]}
+  ],
+  "0856": [
+    "/CharSet/syujinkou_costume_kasa01.png"
   ],
   "0860": [
     "/Panorama/2i9_pano20b.png",
@@ -895,6 +949,11 @@
     "/Sound/冷気2.opus",
     "/Sound/2i9_se5.opus"
   ],
+  "1261": [
+    "/Map1262.lmu",
+    "/Panorama/Kontentsu2.png",
+    "/ChipSet/Kontentsu_chipset2.png"
+  ],
   "1353": [
     "/Map1354.lmu",
     "/CharSet/srd_charchip2.png"
@@ -962,6 +1021,9 @@
     "/CharSet/JIVV Butterflies.png",
     "/CharSet/JIVV Tiny Butterflies.png",
     "/Music/mypn_organic_full.opus"
+  ],
+  "2101": [
+    "/Map2102.lmu"
   ],
   "2115": [
     "/Panorama/21keb_panorama_14B.bmp",

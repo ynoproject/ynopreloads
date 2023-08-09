@@ -1,0 +1,83 @@
+{
+  "title": [
+    "/FaceSet/flourette2.png",
+    "/Sound/SFX001.opus",
+    "/Sound/SFX005.opus",
+    "/Sound/SFX006.opus",
+    "/Sound/nnnNO.opus",
+    "/Sound/fluorette-nu-uh.opus"
+  ],
+  "0001": [
+    "/Map0009.lmu",
+    "/ChipSet/Shrinesunwshadows.png"
+  ],
+  "0001/0004": [
+    "/CharSet/Flourette4.png",
+    "/Sound/sitDown.opus"
+  ],
+  "0002": [
+    "*/Map0010.lmu",
+    "/Sound/glitchSFXschemarmoset.opus",
+    "/Panorama/strange2.png",
+    "/ChipSet/whatever.png",
+    "/CharSet/glitchworld.png",
+    "*/Map0012.lmu"
+  ],
+  "0005": [
+    "/Panorama/gears.4.png",
+    "/Panorama/gears.6.png",
+    "/Panorama/gears.8.png",
+    "/Panorama/gears.10.png",
+    "/Panorama/gears.12.png",
+    "/Panorama/gears.14.png",
+    "/Panorama/gears.16.png",
+    "/Panorama/gears.18.png",
+    "/Panorama/gears.20.png",
+    "/Panorama/gears.22.png",
+    "/Panorama/gears.24.png"
+  ],
+  "0007": [
+    "/Map0008.lmu"
+  ],
+  "0008": [
+    "*/Map0039.lmu",
+    "*/Map0061.lmu",
+    "/ChipSet/forest.png"
+  ],
+  "0009": [
+    "*/CharSet/Flourette3.png",
+    "/CharSet/Flourette5.png",
+    "/CharSet/Flourette2.png",
+    "*/Battle/events01.png",
+    "*/Sound/prayeruse.opus",
+    "/Sound/prayeruse2.opus",
+    "/Sound/gameboy-jump.opus",
+    "/Sound/whoosh.opus",
+    "/Sound/warp.opus",
+    "/Sound/nom.opus",
+    "/Sound/noise2.opus",
+    "/Sound/BEEEP.opus",
+    "/Sound/spark01.opus",
+    "/Sound/BLYEH.opus",
+    "/Sound/Tibeten_Bell_1.opus",
+    "/Sound/Ap-guitar_Seq05.opus",
+    "/Sound/Ap-guitar_Seq02.opus",
+    "/Sound/Ap-guitar_Seq01.opus",
+    "/Sound/Ap-guitar_Seq04.opus",
+    "/Sound/Ap-guitar_Seq03.opus",
+    "/Sound/Shovel.opus",
+    "/Sound/scream2.opus",
+    "/Sound/scream3.opus",
+    "/Sound/panpipe-scream.opus"
+  ],
+  "0010": [
+    "/Map0011.lmu"
+  ],
+  "0014": [
+    "/Map0040.lmu"
+  ],
+  "0057": [
+    "/Sound/ERROR.opus",
+    "/Picture/BSOD1.png"
+  ]
+}

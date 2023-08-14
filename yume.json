@@ -22,11 +22,15 @@
     "/CharSet/000000000035.png",
     "/Map0007.lmu",
     "*/Sound/000000000312.opus",
-    "/Sound/00000309.opus"
+    "/Sound/00000309.opus",
+    "*/Sound/00000017.opus",
+    "/Sound/000018.opus"
   ],
   "0006": [
     "/Picture/00000065.xyz",
-    "/Picture/00000066.xyz"
+    "/Picture/00000066.xyz",
+    "/CharSet/000000000054.png",
+    "/Music/0000107.opus"
   ],
   "0007/0008": [
     "*/FaceSet/000010.xyz",
@@ -243,6 +247,12 @@
     "/Sound/BBBBBBBBBBB2.opus",
     "/Sound/0014.opus"
   ],
+  "0164": [
+    "/Sound/00000000261.opus",
+    "/Sound/00000000262.opus",
+    "/Sound/00000000263.opus",
+    "/Sound/0000372.opus"
+  ],
   "0166": [
     "/Picture/00000176.xyz",
     "/Picture/0000000000181.xyz",
@@ -250,6 +260,9 @@
     "/Picture/0000000000183.xyz",
     "/Picture/0000000000184.xyz",
     "/Panorama/00000000037.xyz"
+  ],
+  "0174": [
+    "/Sound/00000001.opus"
   ],
   "0178": [
     "/Map0179.lmu",

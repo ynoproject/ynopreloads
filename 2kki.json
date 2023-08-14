@@ -13,6 +13,7 @@
     "/Picture/SR_8.png",
     "/Picture/SR_9.png",
     "*/Picture/pc yumegamen 01-5.png",
+    "/Picture/pc yumegamen 01.png",
     "/Picture/pc yumegamen 01-6.png",
     "/Picture/pc yumegamen 01-8.png",
     "/Picture/pc yumegamen 01-7.png",
@@ -29,7 +30,17 @@
     "/CharSet/syujinkou_act3.png",
     "*/Picture/tv waku_line.png",
     "/Picture/color bar.png",
-    "/Picture/back white.png"
+    "/Picture/back white.png",
+    "*/Picture/■.png",
+    "*/Picture/kura_mini00+.png",
+    "/Picture/kura_mini00.png",
+    "/Picture/kura_mini06.png",
+    "/Picture/kura_mini01.png",
+    "/Picture/kura_mini04.png",
+    "/Picture/kura_mini05.png",
+    "/Picture/kura_mini07.png",
+    "/Picture/kura_mini08.png",
+    "/Picture/kura_mini09.png"
   ],
   "0004": [
     "*/Picture/back white2.png",
@@ -120,6 +131,35 @@
     "/FaceSet/yumehako_face1.png",
     "/FaceSet/effect_koumori_state.png",
     "/FaceSet/Bean_faceset.png",
+    "*/CharSet/syujinkou_effect_uchufuku_01.png",
+    "/CharSet/syujinkou_effect_megane_01.png",
+    "/CharSet/syujinkou_effect01.png",
+    "/CharSet/syujinkou_effect_maiko.png",
+    "/CharSet/syujinkou_effect_twin tail mu-ver.png",
+    "/CharSet/syujinkou_effect02.png",
+    "/CharSet/syujinkou_effect_mushi_01.png",
+    "/CharSet/syujinkou_effect_bane.png",
+    "/CharSet/syujinkou_effect_toumei.png",
+    "/CharSet/syujinkou_effect_syosei.png",
+    "/CharSet/syujinkou_effect_gibus.png",
+    "/CharSet/syujinkou_effect_senobi_01.png",
+    "/CharSet/syujinkou_effect_haniwa_01.png",
+    "/CharSet/syujinkou_tron.png",
+    "/CharSet/syujinkou_effect_cake.png",
+    "/CharSet/syujinkou_effect_kodomo_01.png",
+    "/CharSet/syujinkou_effect_akazukin_01.png",
+    "/CharSet/syujinkou_effect_teisshu_01.png",
+    "/CharSet/syujinkou_effect_komori_01.png",
+    "/CharSet/syujinkou_effect04.png",
+    "/CharSet/syujinkou_effect_polygon.png",
+    "/CharSet/syujinkou_effect05.png",
+    "/CharSet/syujinkou_effect_marginal_01.png",
+    "/CharSet/syujinkou_effect_doramukan_01.png",
+    "/CharSet/syujinkou_effect07.png",
+    "/CharSet/syujinkou_usamimi_new.png",
+    "/CharSet/syujinkou_effect06.png",
+    "/CharSet/syujinkou_effect_bike_wolf.png",
+    "/CharSet/syujinkou_effect_meganetwintail_01.png",
     "*/CharSet/syujinkou_effect_action_03.png",
     "/CharSet/syujinkou_effect_action_01.png",
     "/CharSet/syujinkou_effect_action_02.png",
@@ -190,7 +230,23 @@
     "/Sound/575-otoyuka1.opus",
     "/Sound/dedp_DiceC@11.opus",
     "/Sound/575-sentaku4.opus",
-    "/Sound/niwashi_hiyoko-water01.opus"
+    "/Sound/niwashi_hiyoko-water01.opus",
+    "*/CharSet/syujinkou_suwari06.png",
+    "/CharSet/syujinkou_suwari08.png",
+    "/CharSet/syujinkou_suwari04.png",
+    "/CharSet/syujinkou_suwari01.png",
+    "/CharSet/syujinkou_suwari03.png",
+    "/CharSet/syujinkou_suwari02.png",
+    "/CharSet/syujinkou_suwari05.png",
+    "/CharSet/syujinkou_suwari07.png",
+    "/CharSet/syujinkou_effect_dice_3.png",
+    "*/CharSet/syujinkou_Ladder05.png",
+    "/CharSet/syujinkou_Ladder01.png",
+    "/CharSet/syujinkou_Ladder07.png",
+    "/CharSet/syujinkou_Ladder04.png",
+    "/CharSet/syujinkou_Ladder03.png",
+    "/CharSet/syujinkou_Ladder02.png",
+    "/CharSet/syujinkou_Ladder06.png"
   ],
   "0010": [
     "*/Map0031.lmu",
@@ -238,6 +294,7 @@
     "/CharSet/Jared_charsetMM1.png",
     "/CharSet/JIVV Charset 1.png",
     "/CharSet/夢箱-2.png",
+    "/CharSet/2i9_charset_kaihen.png",
     "*/Map1971.lmu",
     "/ChipSet/ouri tileset3.png",
     "/CharSet/ouri char3.png",
@@ -257,7 +314,8 @@
     "/CharSet/TEKITO.png",
     "/CharSet/Nuaah's_Char_chip I.png",
     "/CharSet/maptsuki-charset35.png",
-    "/CharSet/horatsuki 1.png"
+    "/CharSet/horatsuki 1.png",
+    "*/Picture/Jared_ALLFRAMES.png"
   ],
   "0012": [
     "/Picture/Tone_Picture_Choco.png"
@@ -287,6 +345,13 @@
     "/CharSet/aaaakagaitou0.6.png",
     "/CharSet/aaaakagaitou0.8.png",
     "/CharSet/aaaakagaitou1.png",
+    "/CharSet/aaaaakagaitou0.4.png",
+    "/CharSet/aaaaakagaitou0.6.png",
+    "/CharSet/aaaaakagaitou0.8.png",
+    "/CharSet/aaaaakagaitou1.png",
+    "/CharSet/aaaaakagaitou0.1.png",
+    "/CharSet/aaaaakagaitou0.2.png",
+    "/CharSet/aaaaakagaitou0.3.png",
     "*/Map0858.lmu",
     "/Panorama/2i9_HansPx2.png",
     "/ChipSet/2i9_chip10.png",
@@ -464,6 +529,7 @@
     "/Map0013.lmu",
     "/ChipSet/museum-01.png",
     "/CharSet/kamen.png",
+    "/CharSet/20_Charset_04.png",
     "/CharSet/20_Charset_07.png",
     "/CharSet/dedp_syoutaihuemi4.png",
     "/CharSet/710_Charset_18.png",
@@ -872,6 +938,18 @@
     "/Picture/kumo5.png"
     ]}
   ],
+  "0853": [
+    { "x": 107, "y": 67, "files": [
+      "/Picture/2i9_pic_swing_04.png",
+      "/Picture/2i9_pic_swing_05.png",
+      "/Picture/2i9_pic_swing_02.png",
+      "/Picture/2i9_pic_swing_03.png",
+      "/Picture/2i9_pic_swing_06.png",
+      "/Picture/2i9_pic_swing_07.png",
+      "/Picture/2i9_pic_swing_01.png",
+      "/Picture/2i9_pic_swing_frame.png"
+    ]}
+  ],
   "0856": [
     "/CharSet/syujinkou_costume_kasa01.png"
   ],
@@ -965,6 +1043,35 @@
     "/ChipSet/nantai_cp.png",
     "/CharSet/nantai_c2.png"
   ],
+  "1422": [
+    "/Map1424.lmu",
+    "/Panorama/octave_01_2.png",
+    "/CharSet/octave_06_8.png",
+    "/CharSet/octave_06_1.png",
+    "/CharSet/octave_06_2.png",
+    "/CharSet/octave_06_3.png",
+    "/CharSet/octave_06_4.png",
+    "/CharSet/octave_06_5.png",
+    "/CharSet/octave_06_6.png",
+    "/CharSet/octave_06_7.png"
+  ],
+  "1424": [
+    "/Map1422.lmu",
+    "/Panorama/octave_01_1.png",
+    "/CharSet/octave_02.png",
+    "/CharSet/Kontentsu_charaset1.png"
+  ],
+  "1525": [
+    { "x": "0/6", "y": "28/28", "files": [
+      "/Picture/2i9_pic_artframe_pin.png",
+      "/Picture/2i9_pic_artframe_01.png",
+      "/Picture/2i9_pic_artframe_02.png",
+      "/Picture/2i9_pic_artframe_03.png",
+      "/Picture/2i9_pic_artframe_04.png",
+      "/Picture/2i9_pic_artframe_05.png",
+      "/CharSet/2i9_charset_syujinkou.png"
+    ]}
+  ],
   "1624": [
     "/Map1700.lmu",
     "/ChipSet/aediorugap 幽晶.png",
@@ -984,6 +1091,16 @@
     "/Picture/moriwo_picture_15b.png",
     "/Sound/打撃2.opus"
     ]}
+  ],
+  "1711": [
+    "/Map1712.lmu",
+    "/Panorama/samayou-panorama4.png",
+    "/Music/samayou絵楽.mid"
+  ],
+  "1715": [
+    "/Map1720.lmu",
+    "/ChipSet/samayou-chipset7.png",
+    "/CharSet/samayou-charset4.png"
   ],
   "1735": [
     { "x": 47, "y": 14, "files": [

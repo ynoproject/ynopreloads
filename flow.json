@@ -39,6 +39,7 @@
     "/CharSet/sabituki A2.png",
     "/CharSet/sabituki A9.png",
     "/CharSet/sabituki6.png",
+    "/CharSet/sabituki5.png",
     "/CharSet/sabituki A4.png",
     "/CharSet/sabituki A6.png",
     "/CharSet/sabituki A12.png",
@@ -113,6 +114,9 @@
   ],
   "0074/0230": [
     "*/CharSet/[fc]sabituki A4.png",
+    "/CharSet/[fc]sabituki2.png",
+    "/CharSet/[fc]sabituki.png",
+    "/CharSet/[fc]sabituki4.png",
     "/CharSet/[fc]sabituki3.png",
     "/CharSet/[fc]sabituki A3.png",
     "/CharSet/[fc]sabituki A2.png",
@@ -127,6 +131,11 @@
     "/CharSet/[fc]sabituki tuneru4.png",
     "/CharSet/[fc]sabituki tuneru5.png",
     "*/Sound/拳銃fc.opus"
+  ],
+  "0075": [
+    "/Sound/ざ.opus",
+    "/Panorama/no.png",
+    "/Panorama/a.png"
   ],
   "0087": [
     "/Map0086.lmu"

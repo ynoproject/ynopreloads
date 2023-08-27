@@ -1,6 +1,33 @@
 {
+  "title": [
+    "/FaceSet/face.png",
+    "/Sound/cursor1.opus",
+    "/Sound/choice1.opus",
+    "/Sound/buzzer1.opus"
+  ],
+  "0001": [
+    "*/CharSet/main2.png",
+    "/CharSet/main3.png",
+    "/CharSet/main.png",
+    "*/Battle/misc1.png",
+    "/Battle/absorb1.png",
+    "*/Sound/flash1.opus",
+    "/Sound/damage1.opus",
+    "/Sound/bloodsuck.opus"
+  ],
   "0006": [
     "/Map0009.lmu"
+  ],
+  "0009": [
+    "/Map0006.lmu"
+  ],
+  "0011": [
+    "/Sound/on04.opus",
+    "/Picture/pastel1.png",
+    "/Panorama/black.png"
+  ],
+  "0012": [
+    "/Picture/pastel2.png"
   ],
   "0029": [
     "/Map0102.lmu",
@@ -10,5 +37,64 @@
     "/Picture/rave4a.png",
     "/Picture/rave5.png",
     "/Picture/rave6a.png"
+  ],
+  "0042": [
+    "/Sound/on03.opus",
+    "/Music/manager.opus",
+    "/Picture/static4.png",
+    "/Picture/static5.png",
+    "/Picture/static6.png"
+  ],
+  "0043": [
+    "/Picture/the_manager1.png",
+    "/Picture/the_manager2.png",
+    "/Picture/the_manager3.png"
+  ],
+  "0052": [
+    "/Sound/heal5.opus",
+    "/Picture/robo2.png"
+  ],
+  "0089": [
+    "/Picture/enda1sm.png",
+    "/Picture/enda1sm2.png",
+    "/Picture/enda1sm3.png",
+    "/Picture/enda1sm4.png",
+    "/Picture/enda1sm5.png",
+    "/Picture/white.png",
+    "/Picture/enda2sm5.png",
+    "/Picture/enda2sm4.png",
+    "/Picture/enda2sm3.png",
+    "/Picture/enda2sm1.png",
+    "/Picture/enda2sm.png"
+  ],
+  "0092": [
+    "/Picture/endb1sm.png",
+    "/Picture/endb1sm2.png",
+    "/Picture/endb1sm3.png",
+    "/Picture/endb1sm4.png",
+    "/Picture/endb1sm5.png",
+    "/Picture/white.png",
+    "/Picture/endb2sm5.png",
+    "/Picture/endb2sm4.png",
+    "/Picture/endb2sm3.png",
+    "/Picture/endb2sm2.png",
+    "/Picture/endb2sm.png"
+  ],
+  "0101": [
+    "/Picture/caroframe.png",
+    "/Picture/h1.png",
+    "/Picture/h2.png",
+    "/Picture/h3.png",
+    "/Picture/h4.png",
+    "/Picture/h5.png",
+    "/Picture/h6.png",
+    "/Picture/h7.png",
+    "/Picture/h8.png",
+    "/Picture/h9.png",
+    "/Picture/h10.png",
+    "/Picture/h11.png",
+    "/Picture/h12.png",
+    "/Picture/h13.png",
+    "/Picture/h14.png"
   ]
 }

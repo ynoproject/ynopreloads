@@ -35,15 +35,16 @@
     "/Picture/color bar.png",
     "/Picture/back white.png",
     "*/Picture/■.png",
-    "*/Picture/kura_mini00+.png",
-    "/Picture/kura_mini00.png",
-    "/Picture/kura_mini06.png",
-    "/Picture/kura_mini01.png",
-    "/Picture/kura_mini04.png",
-    "/Picture/kura_mini05.png",
-    "/Picture/kura_mini07.png",
-    "/Picture/kura_mini08.png",
-    "/Picture/kura_mini09.png"
+    "*/Picture/back black.png",
+    "/Picture/minigame_00+.png",
+    "/Picture/minigame_00.png",
+    "/Picture/minigame_05.png",
+    "/Picture/minigame_01.png",
+    "/Picture/minigame_04.png",
+    "/Picture/minigame_06.png",
+    "/Picture/minigame_07.png",
+    "/Picture/minigame_08.png",
+    "/Picture/minigame_09.png"
   ],
   "0004": [
     "*/Picture/pc yumegamen.png",
@@ -168,6 +169,7 @@
     "/CharSet/syujinkou_effect_akazukin_01.png",
     "/CharSet/syujinkou_effect_teisshu_01.png",
     "/CharSet/syujinkou_effect_komori_01.png",
+    "/CharSet/syujinkou_effect03.png",
     "/CharSet/syujinkou_effect04.png",
     "/CharSet/syujinkou_effect_polygon.png",
     "/CharSet/syujinkou_effect05.png",
@@ -196,6 +198,8 @@
     "/CharSet/syujinkou_effect_gipusu_action2.png",
     "/CharSet/syujinkou_effect_gipusu.png",
     "/CharSet/syujinkou_effect_komori_02.png",
+    "/CharSet/syujinkou_act2.png",
+    "/CharSet/syujinkou_act4.png",
     "*/Picture/komoD_R.png",
     "/Picture/komoD_M.png",
     "/Picture/komoD_L.png",
@@ -211,6 +215,8 @@
     "/Picture/system-anime07-06.png",
     "/Picture/system-anime07-08.png",
     "/Picture/system-anime07-09.png",
+    "/Battle/system-anime01.png",
+    "/Battle/system-anime02.png",
     "*/Sound/784-se004.opus",
     "/Sound/784-se005.opus",
     "/Sound/tm2_chainsaw002.opus",
@@ -249,6 +255,7 @@
     "/Sound/dedp_DiceC@11.opus",
     "/Sound/575-sentaku4.opus",
     "/Sound/niwashi_hiyoko-water01.opus",
+    "/Sound/ダメージ1.opus",
     "*/CharSet/syujinkou_suwari06.png",
     "/CharSet/syujinkou_suwari08.png",
     "/CharSet/syujinkou_suwari04.png",
@@ -343,7 +350,12 @@
     "*/Map0185.lmu",
     "/Panorama/20_Panorama_37.png",
     "/ChipSet/20_Chipset_10_loda_ラフ画赤い街.png",
-    "/Panorama/20_Panorama_38.png"
+    "/Panorama/20_Panorama_38.png",
+    "*/Map0285.lmu",
+    "/Panorama/oudn-panorama16.png",
+    "/ChipSet/oudn-chipset05.png",
+    "/CharSet/oudn-charset05.png",
+    "/CharSet/oudn-charset06.png"
   ],
   "0014": [
     "*/Picture/back black.png",
@@ -529,6 +541,29 @@
     "/Panorama/20_Panorama_03.png",
     "/ChipSet/20_ChipSet_02.png"
   ],
+  "0058": [
+    "/Picture/20_Picture_14.png",
+    "/Picture/20_Picture_15.png",
+    { "x": 217, "y": 13, "files": [
+      "/Picture/20_Picture_12.png",
+      "/Picture/20_Picture_09.png",
+      "/Picture/20_Picture_10.png",
+      "/Picture/20_Picture_11.png",
+      "/Picture/20_Picture_13.png",
+      "/Sound/wwl_CrowA@08.opus"
+    ]}
+  ],
+  "0069": [
+    { "x": 1, "y": 12, "files": [
+      "/Map0013.lmu",
+      "/ChipSet/museum-01.png",
+      "/CharSet/kamen.png",
+      "/CharSet/20_Charset_04.png",
+      "/CharSet/20_Charset_07.png",
+      "/CharSet/dedp_syoutaihuemi4.png",
+      "/CharSet/qxy_cha_05.png"
+    ]}
+  ],
   "0071": [
     "/Map0012.lmu",
     "/Panorama/20_Panorama_08.png",
@@ -550,7 +585,7 @@
     "/ChipSet/kura21.png",
     "/Map0144.lmu"
   ],
-  "0086": [
+  "0086/0285": [
     "/Map0013.lmu",
     "/ChipSet/museum-01.png",
     "/CharSet/kamen.png",
@@ -675,6 +710,12 @@
     "/Music/bgm-l_m.mid",
     "/Sound/se-1.opus"
   ],
+  "0188": [
+    { "x": 50, "y": 44, "files": [
+      "/Picture/pc yumegamen 03-41.xyz",
+      "/Sound/se-1.opus"
+    ]}
+  ],
   "0205": [
     { "x": "29/30", "y": "1/1", "files": [
     "/Music/ループ「深海」By音師竹内.opus"
@@ -699,6 +740,10 @@
   ],
   "0259": [
     "/Map0459.lmu"
+  ],
+  "0272": [
+    "/Picture/20_Picture_45.png",
+    "/Picture/20_Picture_46.png"
   ],
   "0289": [
     { "x": "43/44", "y": "38/38", "files": [
@@ -731,6 +776,22 @@
     "/Panorama/n3_panorama7.png",
     "/Panorama/n3_panorama6.png",
     "/Panorama/n3_panorama5.png"
+  ],
+  "0372": [
+    { "x": 102, "y": 55, "files": [
+      "/Map0377.lmu",
+      "/Panorama/kura_enkei08.png",
+      "/ChipSet/kura15.png",
+      "/CharSet/kura CharSet06.png",
+      "/CharSet/710_Charset_19.png",
+      "/CharSet/Yeris_CharSet_AirRouteOnBoard_Shadows.png"
+    ]}
+  ],
+  "0377": [
+    "/Map0649.lmu",
+    "/Panorama/Yeris_Panorama_AirRouteOnBoard.png",
+    "/ChipSet/Yeris_ChipSet_AirRouteOnBoard1.png",
+    "/CharSet/Yeris_CharSet_AirRouteOnBoard_Bigs.png"
   ],
   "0412": [
     "/Picture/shitawaku_selectionofeffect.png",
@@ -765,6 +826,48 @@
     "/Picture/dedp_cut_room3.png",
     "/Picture/dedp_cut_room4.png",
     "/Picture/dedp_kumo.png"
+  ],
+  "0451/1521": [
+    "/Picture/omen_BG1.png",
+    "/Picture/omen_cursor1.png",
+    "/Picture/omen_cursor2.png",
+    "/Picture/omen_locked.png",
+    "/Picture/omen_000100.png",
+    "/Picture/omen_000101.png",
+    "/Picture/omen_000102.png",
+    "/Picture/omen_000103.png",
+    "/Picture/omen_000104.png",
+    "/Picture/omen_000105.png",
+    "/Picture/omen_000106.png",
+    "/Picture/omen_000107.png",
+    "/Picture/omen_000108.png",
+    "/Picture/omen_000109.png",
+    "/Picture/omen_000110.png",
+    "/Picture/omen_000111.png",
+    "/Picture/omen_000112.png",
+    "/Picture/omen_000113.png",
+    "/Picture/omen_000114.png",
+    "/Picture/omen_000115.png",
+    "/Picture/omen_000116.png",
+    "/Picture/omen_000117.png",
+    "/Picture/omen_000118.png",
+    "/Picture/omen_000119.png",
+    "/Picture/omen_000120.png",
+    "/Picture/omen_000121.png",
+    "/Picture/omen_000122.png",
+    "/Picture/omen_000123.png",
+    "/Picture/omen_000124.png",
+    "/Picture/omen_000125.png",
+    "/Picture/omen_000126.png",
+    "/Picture/omen_000127.png",
+    "/Picture/omen_000128.png",
+    "/Picture/omen_000129.png",
+    "/Picture/omen_000130.png",
+    "/Picture/omen_000131.png",
+    "/Picture/omen_000132.png",
+    "/Picture/omen_000133.png",
+    "/Picture/omen_000134.png",
+    "/Picture/omen_000135.png"
   ],
   "0482": [
     { "x": 10, "y": 97, "files": [
@@ -921,7 +1024,7 @@
     "*/Map0614.lmu",
     "/CharSet/kura shadow.png",
     "/CharSet/kura CharSet02.png",
-    "/CharSet/kura museum-01.png"
+    "/CharSet/kura-kaihen_museum_01.png"
   ],
   "0692": [
     "/Music/spelude-7-2.opus"
@@ -1018,11 +1121,6 @@
     "/Panorama/2i9_pano20f.png",
     "/Panorama/2i9_pano20g.png"
   ],
-  "0911": [
-    { "x": 45, "y": 66, "files": [
-    "/CharSet/syujinkou_act2.png"
-    ]}
-  ],
   "0918": [
     { "x": 42, "y": 27, "files": [
     "/Picture/qxy_pic_scope_a.png",
@@ -1044,6 +1142,10 @@
   ],
   "0948": [
     "/CharSet/qxy_cha_syujinkou_00.png"
+  ],
+  "1102": [
+    "*/Map1173.lmu",
+    "/ChipSet/nantai_sp4.png"
   ],
   "1135": [
     "/Map1136.lmu",
@@ -1248,6 +1350,20 @@
     "/Picture/uroside2.png",
     "/Picture/pickitup1.png",
     "/Picture/pickitup2.png"
+  ],
+  "2238": [
+    "/Sound/Colby_Dramatic_Randomizer.opus",
+    "/CharSet/Colby_Charset_07.png",
+    "/CharSet/Colby_Charset_08.png",
+    "/ChipSet/Colby_Chipset_07.png",
+    "/Panorama/Colby_Pan_07.png",
+    "/ChipSet/Colby_Chipset_09.png",
+    "/Panorama/Colby_Pan_08.png",
+    "/ChipSet/Colby_Chipset_08.png",
+    "/Panorama/Colby_Pan_09.png"
+  ],
+  "2239": [
+    "/ChipSet/Colby_Chipset_03.png"
   ],
   "2011": [
     "/Panorama/cheo_button64.png",

@@ -1,0 +1,326 @@
+{
+  "title": [
+    "/FaceSet/souvenirs.png",
+    "/FaceSet/souvenirsE1.png",
+    "/FaceSet/souvenirsE2.png",
+    "/FaceSet/souvenirsE3.png",
+    "/FaceSet/souvenirsE4.png",
+    "/FaceSet/souvenirsE5.png",
+    "/FaceSet/souvenirsE6.png",
+    "/FaceSet/souvenirsE7.png",
+    "/FaceSet/souvenirs2.png",
+    "/FaceSet/souvenirs2E1.png",
+    "/FaceSet/souvenirs2E2.png",
+    "/FaceSet/souvenirs2E3.png",
+    "/FaceSet/souvenirs2E4.png",
+    "/FaceSet/souvenirs2E5.png",
+    "/FaceSet/souvenirs2E6.png",
+    "/FaceSet/souvenirs2E7.png",
+    "/Sound/curseur.opus",
+    "/Sound/buzz.opus",
+    "/Sound/back.opus"
+  ],
+  "0001": [
+    "/Picture/Rope.png"
+  ],
+  "0001/0100": [
+    "/Battle/DepthJumpMumaSolo.png",
+    "/Battle/door.png",
+    "/Battle/Frog.png",
+    "/Battle/Get_souvenirs.png",
+    "/Battle/Get_souvenirs2.png",
+    "/Battle/Get_souvenirs3.png",
+    "/Battle/Get_souvenirs3k.png",
+    "/Battle/Get_souvenirs4.png",
+    "/Battle/Get_souvenirs5.png",
+    "/Battle/Get_souvenirs6.png",
+    "/Battle/Get_souvenirs7.png",
+    "/Battle/Get_souvenirs8e.png",
+    "/Battle/Get_souvenirschicago.png",
+    "/Battle/Get_souvenirsneon+Black.png",
+    "/Battle/Get_souvenirsneon.png",
+    "/Battle/Get_souvenirswater.png",
+    "/Battle/Get_souvenirs_lineless.png",
+    "/Battle/G_t_s__v_n_rs__mpt_7.png",
+    "/Battle/G_t_s__v_n_rs__mpt_77.png",
+    "/Battle/muma_rope_anim.png",
+    "/Battle/muma_rope_anim3.png",
+    "/Battle/Muma_sword.png",
+    "/Battle/NeonTeleport.png",
+    "/Battle/NeonTeleportBG.png",
+    "/Battle/NeonTeleportRP.png",
+    "/Battle/NeonTeleportYW.png",
+    "/Battle/Ofemz4m.png",
+    "/Battle/Ofemz5m.png",
+    "/Battle/other.png",
+    "/Battle/other2.png",
+    "/Battle/other3.png",
+    "/Battle/otherlapin.png",
+    "/Battle/otherM.png",
+    "/Battle/otherN.png",
+    "/Battle/otherN2.png",
+    "/Battle/otherN3.png",
+    "/Battle/Punch_Down.png",
+    "/Battle/Punch_Left.png",
+    "/Battle/Punch_Right.png",
+    "/Battle/Punch_Up.png",
+    "/Battle/Punch_UpPool.png",
+    "/Battle/Punch_UpW1.png",
+    "/Battle/Punch_UpWater.png",
+    "/Battle/P_appui_touche.png",
+    "/Battle/SunsetJump.png",
+    "/Battle/Sunset_trulapin.png",
+    "/Battle/vie.png",
+    "/Battle/vie2.png",
+    "/Battle/wierdNumbers.png"
+  ],
+  "0002/0101": [
+    "/Picture/tpbacktimer.png",
+    "/CharSet/muma3.png"
+  ],
+  "0003": [
+    "*/Map0076.lmu",
+    "/CharSet/mob1.png",
+    "*/CharSet/muma2.png"
+  ],
+  "0009": [
+    "/Picture/7finale1.png",
+    "/Picture/7finale2.png",
+    "/Picture/7finale3.png",
+    "/Picture/7finale4.png",
+    "/Picture/7finale5.png",
+    "/Picture/7finale6.png",
+    "/Picture/7finale7.png"
+  ],
+  "0016": [
+    "/ChipSet/lightwolrdON.png",
+    "/Picture/lampwolrdlum1.png",
+    "/Picture/lampwolrdlum2.png",
+    "/Picture/lampwolrdlum3.png"
+  ],
+  "0017": [
+    "/Map0028.lmu",
+    "/ChipSet/RedSands.png"
+  ],
+  "0025": [
+    "*/Picture/Muma-walk-Right-1.png",
+    "/Picture/Muma-walk-Right-2.png",
+    "/Picture/Muma-walk-Right-3.png",
+    "/Picture/Muma-Stand-Right-1.png",
+    "/Picture/Muma-Stand-Right-2.png",
+    "/Picture/Muma-walk-Left-1.png",
+    "/Picture/Muma-walk-Left-2.png",
+    "/Picture/Muma-Stand-Left-1.png",
+    "/Picture/Muma-Stand-Left-2.png",
+    "/Picture/Muma-walk-Left-3.png",
+    "/Picture/Muma-Jump-Left.png",
+    "/Picture/Muma-Jump-Right.png",
+    "*/Sound/SFXJumpSnd.opus",
+    "/Sound/SFXLandSnd.opus",
+    "/Sound/SFXPunchSnd.opus",
+    "*/Picture/Muma-Pick-1.png",
+    "/Picture/Muma-Pick-2.png",
+    "/Picture/Souvenir 12.png"
+  ],
+  "0028": [
+    "/Map0017.lmu",
+    "/ChipSet/RedSands2.png"
+  ],
+  "0030": [
+    { "x": 6, "y": 338, "files": [
+      "/Map0082.lmu",
+      "/ChipSet/decorWSBA.png",
+      "/CharSet/autre5.png"
+    ]}
+  ],
+  "event0039/event0084": [
+    "/CharSet/muma4.png"
+  ],
+  "0042": [
+    "/Map0094.lmu",
+    "/ChipSet/FLOWERS.png"
+  ],
+  "0043/0094": [
+    "/Map0042.lmu",
+    "/ChipSet/chipset_canyon_muma.png",
+    "/CharSet/autre6.png",
+    "/CharSet/charitemcanyon.png"
+  ],
+  "event0045": [
+    "/Picture/bruit.png"
+  ],
+  "0049": [
+    "/Map0048.lmu"
+  ],
+  "0053": [
+    "*/Panorama/RoomEL4.png",
+    "/Panorama/RoomEL3.png",
+    "/Panorama/RoomEL2.png",
+    "/Panorama/RoomEL1.png",
+    "/Panorama/RoomEL0.png",
+    "/Panorama/RoomEL0Move.png",
+    "*/Panorama/RoomEL4A.png",
+    "/Panorama/RoomEL3A.png",
+    "/Panorama/RoomEL2A.png",
+    "/Panorama/RoomEL1A.png",
+    "/Panorama/RoomEL0A.png",
+    "/Panorama/RoomEL0MoveA.png"
+  ],
+  "0054": [
+    "/Map0049.lmu",
+    "/ChipSet/WeirdForest.png",
+    "/CharSet/muma7.png"
+  ],
+  "0055": [
+    "/Panorama/OrbRoomBG1.png",
+    "/Panorama/OrbRoomBG2.png",
+    "/Panorama/OrbRoomBG3.png",
+    "/Panorama/OrbRoomLG1.png",
+    "/Panorama/OrbRoomLG2.png",
+    "/Panorama/OrbRoomLG3.png",
+    "/Panorama/OrbRoomLG4.png",
+    "/Panorama/OrbRoomGG1.png",
+    "/Panorama/OrbRoomGG2.png",
+    "/Panorama/OrbRoomNX1.png",
+    "/Panorama/OrbRoomNX2.png",
+    "/Panorama/OrbRoomNX3.png",
+    "/Panorama/OrbRoomNX4.png",
+    "/Panorama/OrbRoomNXChute.png"
+  ],
+  "0059": [
+    "/Map0060.lmu"
+  ],
+  "0060": [
+    "/Map0070.lmu",
+    "/ChipSet/muma grotte.png"
+  ],
+  "0061": [
+    "/Panorama/sunset1.png",
+    "/Panorama/sunset2.png",
+    "/Panorama/sunset3.png",
+    "/Panorama/sunset4.png"
+  ],
+  "0064": [
+    "/CharSet/orbDoors.png"
+  ],
+  "0066": [
+    "*/CharSet/muma11.png",
+    "*/Picture/Gradient-Rad.png",
+    "/Picture/Gradient-Rad-2.png",
+    "/Map0073.lmu",
+    "/ChipSet/NL.png",
+    "/CharSet/object3.png",
+    "/Picture/cloud-BG.png"
+  ],
+  "0068": [
+    "/Picture/Missingn3.png",
+    "/Picture/Missingn4-2.png",
+    "/Picture/Missingn4.png",
+    "/Picture/Missingn5-2.png",
+    "/Picture/Missingn5.png",
+    "/Picture/Missingn6.png"
+  ],
+  "0070": [
+    "*/Picture/muma dessin 4.png",
+    "/Picture/muma dessin 1.png",
+    "/Picture/muma dessin 3.png",
+    "/Picture/muma dessin 2.png",
+    "*/CharSet/chuteSable.png",
+    "*/Map0072.lmu",
+    "/Panorama/muma transition 1.png",
+    "/ChipSet/music.png"
+  ],
+  "0071": [
+    "/Panorama/muma chambre 2.png",
+    "/Panorama/muma chambre 3.png",
+    "/Panorama/muma chambre 4.png"
+  ],
+  "0073": [
+    "/Picture/cloud-ride.png",
+    "/Picture/cloud-star.png",
+    "/Picture/cloud-muma.png",
+    "/Sound/R_Ridin.opus",
+    "/Sound/R_Jumpin.opus",
+    "/Sound/R_Endin.opus"
+  ],
+  "0078": [
+    "/Map0089.lmu",
+    "/ChipSet/pipe_building.png",
+    "/CharSet/autre8.png"
+  ],
+  "event0079": [
+    "/Picture/lightup.png"
+  ],
+  "event0085/event0087": [
+    "/CharSet/Muma-Neon.xyz"
+  ],
+  "0085/0087": [
+    "/ChipSet/neon_blue.png",
+    "/ChipSet/neon_green.png",
+    "/ChipSet/neon_yellow.png",
+    "/ChipSet/neon_red.png",
+    "/ChipSet/neon_purple.png",
+    "/Battle/NeonTeleportBG.png",
+    "/Battle/NeonTeleportYW.png",
+    "/Battle/NeonTeleportRP.png"
+  ],
+  "0086": [
+    "/CharSet/muma7.png"
+  ],
+  "0089": [
+    { "x": 55, "y": 40, "files": [
+      "/Map0095.lmu",
+      "/Panorama/particleback.png",
+      "/CharSet/particle.png",
+      "/CharSet/particle2.png",
+      "/Picture/particlefiltre1.png",
+      "/Picture/particlefiltre2.png"
+    ]}
+  ],
+  "0092": [
+    "/Map0093.lmu",
+    "/CharSet/chara_greenhouse1.png"
+  ],
+  "0093": [
+    "/Map0092.lmu",
+    "/CharSet/muma8.png"
+  ],
+  "0102": [
+    "/Map0121.lmu",
+    "/ChipSet/jail.png",
+    "/CharSet/muma10.png"
+  ],
+  "0105": [
+    "/Map0106.lmu",
+    "/Panorama/hazebg.png",
+    "/ChipSet/hazybridge.png",
+    "/CharSet/autre8.png"
+  ],
+  "0106/0131": [
+    "/Map0105.lmu",
+    "/Panorama/hazebg2.png",
+    "/ChipSet/hazybridge2.png",
+    "/CharSet/autre7.png",
+    "/CharSet/auu2.png",
+    "/CharSet/Aye_2.png"
+  ],
+  "0111": [
+    "/Picture/kazamino_bus_start.png",
+    "/Panorama/busbgwobus.png",
+    "/Picture/kazamino_bus_ride.png",
+    "/Picture/kazamino_bus_muma_ride.png",
+    "/Picture/kazamino_bus_muma_start.png",
+    "/Picture/kazamino_bus_empty_start.png",
+    "/Picture/kazamino_bus_empt_ride.png"
+  ],
+  "0122": [
+    "/CharSet/Muma-Thorns-Neon.png"
+  ],
+  "0125": [
+    "/Picture/farawaycity2.png",
+    "/Picture/kazamino_bus_truemuma_ride.png",
+    "/Picture/kazamino_bus_truemuma_start.png",
+    "/Picture/kazamino_bus_trueempty_start.png",
+    "/Picture/kazamino_bus_trueempt_ride.png"
+  ]
+}

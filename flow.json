@@ -46,6 +46,7 @@
     "/CharSet/sabituki A11.png",
     "/CharSet/sabituki8.png",
     "/CharSet/sabituki A10.png",
+    "/CharSet/sabituki_another.png",
     "*/CharSet/sabituki tuneru.png",
     "/CharSet/sabituki tuneru2.png",
     "/CharSet/sabituki tuneru3.png",
@@ -270,6 +271,19 @@
     "/Sound/声5_.opus",
     "/Sound/声3_.opus"
   ],
+  "0257": [
+    "/Picture/fcb1.png",
+    "/Picture/fcb2.png",
+    "/Picture/fcb3.png",
+    "/Picture/fcb4.png",
+    "/Picture/fcb5.png",
+    "/Picture/fcbf.png",
+    "/Picture/fcbf2.png",
+    "/Picture/fcbf5.png",
+    "/Picture/fcbf4.png",
+    "/Picture/fcbf3.png",
+    "/Music/fcbgmバグ.opus"
+  ],
   "event0261": [
     "/Sound/noizu4.opus",
     "/Sound/ざ.opus",
@@ -289,6 +303,9 @@
     "/Picture/バグ6.png",
     "/Picture/バグ7.png",
     "/Sound/ぐちゃっ.opus"
+  ],
+  "0265": [
+    "/Panorama/sugar.png"
   ],
   "0269": [
     "/Panorama/girls2.png",

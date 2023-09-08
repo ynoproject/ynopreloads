@@ -273,6 +273,9 @@
     "/CharSet/embryon.png"
   ],
   "0159": [
+    "*/Map0140.lmu",
+    "/ChipSet/artichauts .png",
+    "/CharSet/chaudron .png",
     "*/Map0158.lmu",
     "/Panorama/Chaiselongue.png",
     "*/Map0170.lmu",
@@ -326,6 +329,13 @@
   "0184": [
     "/Picture/Tv1.png",
     "/Picture/Tv2.png"
+  ],
+  "0186": [
+    "/Music/Ambiance+Wouhouhou.opus"
+  ],
+  "0187": [
+    "/Music/Aaaaagnes.opus",
+    "/Music/Guitare.opus"
   ],
   "0196": [
     "/Panorama/bac-grand-1.png",

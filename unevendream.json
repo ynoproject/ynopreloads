@@ -1,5 +1,66 @@
 {
-  "0008": [
+  "title": [
+    "/FaceSet/fd-0.png",
+    "/Sound/fd-000.opus",
+    "/Sound/fd-001a.opus",
+    "/Sound/fd-002a.opus",
+    "/Sound/fd-003.opus"
+  ],
+  "0001/0022": [
+    "*/CharSet/kubo.png",
+    "/CharSet/1247-kubomisc3.png",
+    "/CharSet/1247-sitb.png",
+    "/CharSet/1247-sitb2.png",
+    "*/Panorama/fd-kubocity1.png",
+    "/Panorama/fd-kubocity2.png",
+    "/Panorama/fd-kubocity3.png",
+    "*/Map0006.lmu",
+    "/Panorama/fd-kubocity4.png",
+    "/ChipSet/1247-KuboRoomB.png",
+    "/Picture/static1.png"
+  ],
+  "0001/0004": [
+    "/Picture/wp-text.png",
+    "/Picture/wp-text2.png",
+    "/Picture/wp-ids.png"
+  ],
+  "0002": [
+    "/Map0085.lmu",
+    "/Panorama/Question Mark - Bubbles.png",
+    "/ChipSet/Question Mark-Monde05.png",
+    "/CharSet/fd-1.png"
+  ],
+  "0002/0072": [
+    "/Map0046.lmu",
+    "/Panorama/Question Mark-Gray.png"
+  ],
+  "0004/0005": [
+    "/CharSet/Totsu.png",
+    "/CharSet/1247-sit2.png"
+  ],
+  "0006": [
+    "*/FaceSet/Rurima-kubo faceset1.png",
+    "*/CharSet/1247-sit2.png",
+    "/CharSet/kubo-effects1.png",
+    "/CharSet/kubo-effects3.png",
+    "/CharSet/kubo-effects2.png",
+    "/CharSet/kubo-effects5.png",
+    "/CharSet/kubo-effects4.png",
+    "*/Battle/fd-effect.png",
+    "/Battle/1247-questionmarkexclamationpoint.png",
+    "/Picture/1247-scribble.png",
+    "*/Sound/Ice1.opus",
+    "/Sound/Open1.opus",
+    "/Sound/fd-001.opus",
+    "/Sound/fd-glitch.opus",
+    "/Sound/fd-002.opus",
+    "/Sound/Key.opus",
+    "/Sound/398271__inspectorj__pencil-writing-close-a.opus",
+    "/Sound/Earth2.opus",
+    "/Sound/fd-carpet1.opus",
+    "/Sound/131330__kaonaya__beer-bottle-6.opus"
+  ],
+  "0012": [
     "/Panorama/FD-kubonexus01.png",
     "/Panorama/FD-kubonexus02.png",
     "/Panorama/FD-kubonexus03.png",
@@ -11,18 +72,347 @@
     "/Panorama/FD-kubonexus09.png",
     "/Panorama/FD-kubonexus10.png"
   ],
-  "0019": [
+  "0016/0084": [
+    "/Picture/Question Mark-Knife.png",
+    "/Picture/Question Mark-Knife2.png",
+    "/Picture/Question Mark-Knife3.png",
+    "/Picture/Question Mark-Knife4.png",
+    "/Picture/Question Mark-Knife5.png"
+  ],
+  "0018": [
+    "*/FaceSet/Rurima-totsu faceset1.png",
+    "*/CharSet/1247-sitb2.png",
+    "/CharSet/Totsu3.png",
+    "/CharSet/lapis char_crystal.png",
+    "/CharSet/Totsu4.png",
+    "*/Battle/fd-effect.png",
+    "/Battle/lapis anim_mermaid.png",
+    "*/Sound/Ice1.opus",
+    "/Sound/fd-001.opus",
+    "/Sound/Key.opus",
+    "/Sound/b_042.opus",
+    "/Sound/Holy5.opus",
+    "/Sound/lapis sfx_mermaid_5.opus",
+    "/Sound/EBroxas-Fold.opus",
+    "/Sound/60443__jobro__tada1.opus",
+    "/Sound/fd-002.opus",
+    "/Sound/Recovery6.opus"
+  ],
+  "0020": [
     "/Panorama/FD-TotsuNexus1.png",
     "/Panorama/FD-TotsuNexus2.png",
     "/Panorama/FD-TotsuNexus3.png"
+  ],
+  "0021": [
+    "/Map0026.lmu",
+    "/Panorama/olm_cave1.png",
+    "/Picture/olm_cavepic1.png",
+    "/Picture/olm_cavepic2.png",
+    "/Picture/olm_cavepic3.png",
+    "/Picture/olm_cavepic4.png",
+    "/Panorama/olm_cave2.png",
+    "/Picture/olm_cavec1.png",
+    "/Picture/olm_cavec2.png"
+  ],
+  "event0023": [
+    "*/Picture/fd-soundload.png",
+    "/Picture/FD-Introduction1.png",
+    "*/Panorama/fd-kubocity1.png",
+    "/Panorama/fd-kubocity2.png",
+    "/Panorama/fd-kubocity3.png"
+  ],
+  "0026": [
+    "/Picture/olm_grain2.png"
+  ],
+  "0036": [
+    "/Panorama/Question Mark-map02trees2.png",
+    "/Panorama/Question Mark-map02trees3.png"
+  ],
+  "0041": [
+    "/Picture/Question Mark - Talk1.png",
+    "/Picture/Question Mark - Talk2.png",
+    "/Picture/Question Mark - Talk3.png",
+    "/Picture/Question Mark - Talk4.png",
+    "/Picture/Question Mark - Talk5.png",
+    "/Picture/Question Mark - Talk6.png",
+    "/Picture/Question Mark - Talk7.png",
+    "/Panorama/Question Mark - Bg2.png",
+    "/Sound/50928__rutgermuller__voices-short.opus",
+    "/Sound/Nexus-Soda4.opus",
+    "/Sound/87717__pierosacco__u.opus",
+    "/Sound/Nexus-Soda1.opus",
+    "/Sound/115604__matteusnova__press-five.opus",
+    "/Music/fd-broken1.opus",
+    { "x": 5, "y": 117, "files": [
+      "/Picture/Question Mark -Mime1.png",
+      "/Picture/Question Mark -Mime2.png",
+      "/Picture/Question Mark -Mime3.png",
+      "/Picture/Question Mark -Mime4.png",
+      "/Picture/Question Mark -Mime5.png"
+    ]},
+    { "x": 113, "y": 114, "files": [
+      "/Picture/Question Mark -Mime1.png",
+      "/Picture/Question Mark -Mime6.png",
+      "/Picture/Question Mark - Mimeglitch1.png",
+      "/Picture/Question Mark - Mimeglitch2.png",
+      "/Picture/Question Mark - Mimeglitch3.png",
+      "/Picture/Question Mark - Mimeglitch4.png",
+      "/Picture/Question Mark - Mimeglitch5.png",
+      "/Picture/Question Mark - Mimeglitch6.png",
+      "/Picture/Question Mark - Mimeglitch7.png",
+      "/Picture/Question Mark - Mimeglitch8.png",
+      "/Picture/Question Mark - Mimeglitch9.png",
+      "/Picture/Question Mark - Mimeglitch10.png",
+      "/Picture/Question Mark - Mimeglitch11.png",
+      "/Picture/Question Mark - Mimeglitch12.png",
+      "/Sound/se_maoudamashii_system06.opus",
+      "/Music/fd-noisefreeze.opus"
+    ]}
+  ],
+  "0042": [
+    { "x": 13, "y": 8, "files": [
+      "/Map0058.lmu",
+      "/Panorama/anthem_bg01_draft1.png",
+      "/ChipSet/anthem_chip_02.png"
+    ]}
+  ],
+  "0046": [
+    "/Map0002.lmu",
+    "/Panorama/Question Mark - Bg3.png",
+    "/CharSet/Question Mark-Characters04.png"
+  ],
+  "0046/0084": [
+    "/Map0072.lmu",
+    "/Panorama/Question Mark - Bg4.png",
+    "/ChipSet/Question Mark - Lantern.png",
+    "/CharSet/Question Mark-Characters10.png",
+    "/Picture/Question Mark - Grassforeground2.png"
   ],
   "0048": [
     "/Panorama/OutlanderS3S-ceiling1.png",
     "/Panorama/OutlanderS3S-ceiling2.png",
     "/Panorama/OutlanderS3S-ceiling3.png"
   ],
+  "0081": [
+    "/Panorama/FD-BW2.png"
+  ],
+  "0108": [
+    "/Picture/Jojogape - go1.png",
+    "/Picture/Jojogape - go2.png",
+    "/Picture/Jojogape - go3.png",
+    "/Picture/Jojogape - go4.png",
+    "/Picture/Jojogape - go5.png"
+  ],
+  "0114": [
+    "/Map0115.lmu",
+    "/Panorama/rurima-sheet.png",
+    "/ChipSet/Rurima-galleta.png",
+    "/CharSet/Rurima-frutas npcs.png",
+    "/CharSet/Rurima-doors2.png"
+  ],
+  "0115": [
+    "/Map0130.lmu"
+  ],
+  "0118": [
+    "/Panorama/Rurima-madina2.png"
+  ],
   "0123": [
     "/Map0124.lmu",
     "/Panorama/1247-dreampalaceB.png"
+  ],
+  "0126": [
+    "/Map0131.lmu",
+    "/ChipSet/Rurima-sea.png",
+    "/CharSet/gummy-charset 004.png"
+  ],
+  "0140": [
+    "/Map0260.lmu",
+    "/Panorama/Rurima-harbor bg.png"
+  ],
+  "0142": [
+    "/FaceSet/1247-0.png",
+    "/CharSet/Rurima-totsu pc98.png",
+    "/CharSet/Rurima-totsu pc98 2.png",
+    "/CharSet/Rurima-totsu_pc98_3.png"
+  ],
+  "0161": [
+    { "x": 11, "y": 14, "files": [
+      "/Picture/Question Mark- Fridge.png",
+      "/Picture/Question Mark- Fridge1.png",
+      "/Picture/Question Mark- Fridge6.png",
+      "/Picture/Question Mark- Fridge2.png",
+      "/Picture/Question Mark- Fridge3.png",
+      "/Picture/Question Mark- Fridge4.png",
+      "/Picture/Question Mark- Fridge5.png"
+    ]}
+  ],
+  "0168": [
+    { "x": 96, "y": 6, "files": [
+      "/Map0336.lmu",
+      "/Panorama/Rurima-Noise.png"
+    ]}
+  ],
+  "0192": [
+    "/Picture/ebroxas Face2.png",
+    "/Picture/ebroxas Face3.png",
+    "/Picture/ebroxas Face4.png",
+    "/Picture/ebroxas Face5.png",
+    "/Picture/ebroxas Face6.png",
+    "/Picture/ebroxas Face7.png",
+    "/Picture/ebroxas Face8.png",
+    "/Picture/ebroxas Face9.png"
+  ],
+  "0195": [
+    { "x": 11, "y": 8, "files": [
+      "/Picture/EBroxas-Falling1.png",
+      "/Picture/EBroxas-Falling2.png",
+      "/Picture/EBroxas-Falling3.png",
+      "/Picture/EBroxas-Falling4.png",
+      "/Picture/EBroxas-Falling5.png",
+      "/Picture/EBroxas-Falling6.png",
+      "/Picture/EBroxas-Falling7.png",
+      "/Picture/EBroxas-Falling8.png"
+    ]}
+  ],
+  "0201": [
+    "/Map0202.lmu",
+    "/Panorama/sniperbob-panorama2.png"
+  ],
+  "0204": [
+    "/Panorama/sniperbob-panorama5.png",
+    "/Panorama/sniperbob-panorama6.png",
+    "/Panorama/sniperbob-panorama7.png",
+    "/Panorama/sniperbob-panorama8.png",
+    "/Panorama/sniperbob-panorama9.png",
+    "/Panorama/sniperbob-panorama10.png",
+    "/Panorama/sniperbob-panorama11.png",
+    "/Panorama/sniperbob-panorama12.png",
+    "/Panorama/sniperbob-panorama13.png"
+  ],
+  "0221": [
+    "/Map0229.lmu",
+    "/Panorama/gummy-turquoisepolygons.png",
+    "/ChipSet/gummy-tileset 004.png",
+    "/CharSet/Nexus-chara2.png"
+  ],
+  "0222": [
+    "/Map0228.lmu",
+    "/Panorama/gummy-yyaayyyyy skyyyy!!!!!.png",
+    "/ChipSet/gummy-tileset 006.png"
+  ],
+  "0223": [
+    "/CharSet/gummy-charset 002.png"
+  ],
+  "0227": [
+    { "x": 10, "y": 12, "files": [
+      "/Picture/gummy-hooded1.png",
+      "/Picture/gummy-hooded2.png",
+      "/Panorama/gummy-eyeballs!!!!!! aaaaaaa.png",
+      "/Music/gummy-I HAVE AWOKEN2.opus"
+    ]}
+  ],
+  "0271": [
+    "/Picture/ebroxas Spike event 1.png",
+    "/Picture/ebroxas Spike event 2.png",
+    "/Picture/ebroxas Spike event 3.png",
+    "/Picture/ebroxas Spike event 4.png",
+    "/Picture/ebroxas Spike event 5.png",
+    "/Picture/ebroxas Spike event 6.png",
+    "/Picture/ebroxas Spike event 7.png",
+    "/Picture/ebroxas Spike event 8.png",
+    "/Picture/ebroxas Spike event 9.png",
+    "/Picture/ebroxas Spike event 10.png",
+    "/Picture/ebroxas Spike event 11.png"
+  ],
+  "0290": [
+    { "x": 3, "y": 15, "files": [
+      "/Picture/QMark-Appleworm1.png",
+      "/Picture/QMark-Appleworm2.png",
+      "/Picture/QMark-Appleworm3.png",
+      "/Picture/QMark-Appleworm4.png",
+      "/Picture/QMark-Appleworm5.png",
+      "/Picture/QMark-Appleworm6.png",
+      "/Picture/QMark-Appleworm7.png",
+      "/Picture/QMark-Appleworm8.png",
+      "/Picture/QMark-Appleworm9.png",
+      "/Picture/QMark-Appleworm10.png",
+      "/Picture/QMark-Appleworm11.png",
+      "/Picture/QMark-Appleworm12.png",
+      "/Picture/QMark-Appleworm13.png",
+      "/Picture/QMark-Appleworm14.png",
+      "/Picture/QMark-Appleworm15.png",
+      "/Picture/QMark-Appleworm16.png",
+      "/Picture/QMark-Appleworm17.png",
+      "/Picture/QMark-Appleworm18.png",
+      "/Picture/QMark-Appleworm19.png",
+      "/Picture/QMark-Appleworm20.png",
+      "/Picture/QMark-Appleworm21.png",
+      "/Picture/QMark-Appleworm22.png",
+      "/Picture/QMark-Appleworm23.png",
+      "/Picture/QMark-Appleworm24.png",
+      "/Picture/QMark-Appleworm25.png"
+    ]}
+  ],
+  "0292": [
+    "/Picture/QMark-Geddoverhere1.png",
+    "/Picture/QMark-Geddoverhere2.png",
+    "/Picture/QMark-Geddoverhere3.png",
+    "/Picture/QMark-Geddoverhere4.png",
+    "/Picture/QMark-Geddoverhere5.png"
+  ],
+  "0294": [
+    "/Picture/QMark-Jpeg1.png",
+    "/Picture/QMark-Jpeg2.png",
+    "/Picture/QMark-Jpeg3.png",
+    "/Picture/QMark-Jpeg4.png"
+  ],
+  "0296": [
+    { "x": 39, "y": 13, "files": [
+      "/Picture/QMark-Photobop.png",
+      "/Battle/QMark-Vomitingballoons.png"
+    ]}
+  ],
+  "0297": [
+    "/Picture/QMark-Arcadepic1.png",
+    "/Picture/QMark-Arcadepic2.png",
+    "/Picture/QMark-Arcadepic3.png",
+    "/Picture/QMark-Arcadepic4.png",
+    "/Picture/QMark-Arcadepic5.png",
+    "/Picture/QMark-Arcadepic6.png",
+    "/Picture/QMark-Arcadepic7.png"
+  ],
+  "0310": [
+    "/Map0311.lmu",
+    "/Panorama/stylzm_bg_children.png",
+    "/ChipSet/stylzm_strange_plants.png",
+    "/CharSet/Rurima-frutas npcs.png"
+  ],
+  "0311": [
+    "/Picture/stylzm_eyeopen1.png",
+    "/Picture/stylzm_eyeopen2.png",
+    "/Picture/stylzm_eyeopen3.png"
+  ],
+  "0334": [
+    "/CharSet/1247-totsumisc4.png",
+    "/CharSet/anthem_char_empty.png",
+    "/Panorama/nexus-slidinin.png",
+    "/CharSet/kubo.png"
+  ],
+  "0337": [
+    "/Picture/Rurima-number1.png",
+    "/Picture/Rurima-number2.png",
+    "/Picture/Rurima-number3.png",
+    "/Picture/Rurima-number4.png"
+  ],
+  "0338": [
+    "*/Panorama/Rurima-Trixie room night.png",
+    "/Music/QMark-PaleLavenderColored.opus",
+    "*/Panorama/Rurima-Trixie room inverted.png",
+    "/Music/fd-broken1.opus"
+  ],
+  "0350": [
+    "/Panorama/FD-BW.png",
+    "/Picture/Lightspot.png",
+    "/Picture/gummy-symmetrical.png"
   ]
 }

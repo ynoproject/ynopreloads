@@ -386,10 +386,29 @@
     "/CharSet/aaaaakagaitou0.1.png",
     "/CharSet/aaaaakagaitou0.2.png",
     "/CharSet/aaaaakagaitou0.3.png",
+    "/CharSet/2i9_charset_kaihen_akagaitou.png",
+    "/CharSet/aaaaaakagaitou0.6.png",
+    "/CharSet/aaaaaakagaitou0.5.png",
+    "/CharSet/aaaaaakagaitou1.png",
+    "/CharSet/aaaaaakagaitou0.9.png",
+    "/CharSet/aaaaaakagaitou0.8.png",
+    "/CharSet/aaaaaakagaitou0.7.png",
+    "/CharSet/aaaaaakagaitou0.4.png",
+    "/CharSet/aaaaaakagaitou0.2.png",
+    "/CharSet/aaaaaaakagaitou1.png",
+    "/CharSet/wataru キャラ８.png",
+    "/CharSet/aaaaaakagaitou0.3.png",
+    "/CharSet/aaaaaaakagaitou0.7.png",
+    "/CharSet/aaaaaaakagaitou0.6.png",
+    "/CharSet/aaaaaaakagaitou0.8.png",
+    "/CharSet/aaaaaaakagaitou0.9.png",
+    "/CharSet/aaaaaaakagaitou0.4.png",
+    "/CharSet/aaaaaaakagaitou0.5.png",
     "*/Map0858.lmu",
     "/Panorama/2i9_HansPx2.png",
     "/ChipSet/2i9_chip10.png",
     "/CharSet/2i9_charset16.png",
+    "/CharSet/2i9_charset9.png",
     "/CharSet/2i9_charset7.png",
     "/CharSet/2i9_charset23.png",
     "/CharSet/2i9_charset21.png"
@@ -421,6 +440,8 @@
     { "slow": true, "files": [
       "/Picture/book txt 20-0.png",
       "/Picture/sababooks_２.png",
+      "/Picture/book sasie2.png",
+      "/Picture/vita-chi26.png",
       "/Picture/back white.png",
       "/Picture/wakuwakusan1.png",
       "/Picture/wakuwakusan2.png",
@@ -464,8 +485,10 @@
       "/Picture/Yeris_Book_Dictionary_R_2.png",
       "/Picture/Yeris_Book_Dictionary_R_3.png",
       "/Picture/Yeris_Book_Dictionary_R_4.png",
+      "/Picture/kuro9 book.png",
       "/Picture/book txt 自我喪失自我偏執狂１.png",
       "/Picture/book txt 自我喪失自我偏執狂２.png",
+      "/Picture/book txt 2011y03m08d_224107891.png",
       "/Picture/book txt 01.png",
       "/Picture/book txt 02.png",
       "/Picture/book txt 03.png",
@@ -473,6 +496,7 @@
       "/Picture/book txt 05.png",
       "/Picture/book txt 遺書１.png",
       "/Picture/book txt 遺書２.png",
+      "/Picture/710_memo.png",
       "/Picture/natl_book1.png",
       "/Picture/natl_book2.png",
       "/Picture/qxy_pic_diary_a.png",
@@ -495,9 +519,14 @@
       "/Picture/■.png",
       "/Picture/2i9_booktxt1.png",
       "/Picture/2i9_booktxt2.png",
+      "/Picture/book txt なんでなんでもない.png",
+      "/Picture/book txt 罪.png",
+      "/Picture/book txt 消えかけの意識の中.png",
+      "/Picture/book txt 真っ赤なバケツ.png",
       "/Picture/spelude-inks1.png",
       "/Picture/spelude-inks2.png",
       "/Picture/spelude-inks3.png",
+      "/Picture/book txt @sushi2.xyz",
       "/Music/spelude-19l.opus",
       "/Picture/spelude-hn1.png",
       "/Picture/spelude-hn2.png",
@@ -513,7 +542,9 @@
       "/Picture/kura_GBlike_01.png",
       "/Picture/kura_GBlike_02.png",
       "/Picture/kura_GBlike_05.png",
-      "/Picture/kura_GBlike_04.png"
+      "/Picture/kura_GBlike_04.png",
+      "/Picture/spelude-box.png",
+      "/Picture/book_unicorn.png"
     ]}
   ],
   "0021": [
@@ -527,6 +558,7 @@
     "*/Map1320.lmu",
     "/ChipSet/Nuaah's_Map_chip_XXV.png",
     "/CharSet/Nuaah's_Char_chip IV.png",
+    "/CharSet/meta_opticnervechar.png",
     "/Panorama/#null.png",
     "*/Music/626-tb303.opus",
     "/Picture/back black.png",
@@ -594,6 +626,19 @@
     "/CharSet/dedp_syoutaihuemi4.png",
     "/CharSet/710_Charset_18.png",
     "/CharSet/qxy_cha_05.png"
+  ],
+  "0111": [
+    "/Picture/dedp_map_5.png",
+    "/Picture/dedp_map_2.png",
+    "/Picture/dedp_map_4.png",
+    "/Picture/dedp_map_3.png",
+    "/Picture/dedp_map_1.png",
+    "/Music/dedp_x_r036_4_120.opus",
+    "/Sound/dedp_x_r040_2_120.opus",
+    "/Sound/dedp_x_r029_4_120.opus",
+    "/Sound/dedp_x_r037_2_130.opus",
+    "/Sound/dedp_x_r033_2_120.opus",
+    "/Sound/dedp_x_r001_2_120.opus"
   ],
   "0114/0253/1980/2011": [
     "/Panorama/cheo_button1.png",
@@ -724,6 +769,13 @@
   "event0253": [
     "/Sound/dedpA1_05107.opus"
   ],
+  "0253": [
+    "/Map0111.lmu",
+    "/Panorama/dedp_mati1.png",
+    "/ChipSet/dedp_ChipSet_04.png",
+    "/CharSet/ded_space_suitu.png",
+    "/CharSet/dedp_syoutaihuemi4.png"
+  ],
   "0255": [
     "/Picture/dedp_light_T_l3q.png",
     "/Picture/dedp_light_T_l2q.png",
@@ -792,6 +844,13 @@
     "/Panorama/Yeris_Panorama_AirRouteOnBoard.png",
     "/ChipSet/Yeris_ChipSet_AirRouteOnBoard1.png",
     "/CharSet/Yeris_CharSet_AirRouteOnBoard_Bigs.png"
+  ],
+  "0382": [
+    "/Map0381.lmu",
+    "/CharSet/drm_family.png"
+  ],
+  "0388": [
+    "/Map0385.lmu"
   ],
   "0412": [
     "/Picture/shitawaku_selectionofeffect.png",
@@ -868,6 +927,9 @@
     "/Picture/omen_000133.png",
     "/Picture/omen_000134.png",
     "/Picture/omen_000135.png"
+  ],
+  "0464": [
+    "/Picture/drm_picture_circus_end.PNG"
   ],
   "0482": [
     { "x": 10, "y": 97, "files": [
@@ -1143,6 +1205,12 @@
   "0948": [
     "/CharSet/qxy_cha_syujinkou_00.png"
   ],
+  "0972": [
+    "/Picture/moon_nasa.xyz",
+    "/Map0973.lmu",
+    "/Panorama/obso2.png",
+    "/Picture/pleiades_nasa.xyz"
+  ],
   "1102": [
     "*/Map1173.lmu",
     "/ChipSet/nantai_sp4.png"
@@ -1182,6 +1250,11 @@
     "/Sound/冷気2.opus",
     "/Sound/2i9_se5.opus"
   ],
+  "1248": [
+    "/Map1249.lmu",
+    "/Panorama/Nuaah's_Background X.png",
+    "/ChipSet/Nuaah's_Map_chip_II.png"
+  ],
   "1261": [
     "/Map1262.lmu",
     "/Panorama/Kontentsu2.png",
@@ -1218,13 +1291,24 @@
   ],
   "1525": [
     { "x": "0/6", "y": "28/28", "files": [
-      "/Picture/2i9_pic_artframe_pin.png",
-      "/Picture/2i9_pic_artframe_01.png",
-      "/Picture/2i9_pic_artframe_02.png",
-      "/Picture/2i9_pic_artframe_03.png",
-      "/Picture/2i9_pic_artframe_04.png",
-      "/Picture/2i9_pic_artframe_05.png",
-      "/CharSet/2i9_charset_syujinkou.png"
+      "/CharSet/2i9_charset_syujinkou.png",
+      "/CharSet/2i9_charset_syujinkou2.png"
+    ]}
+  ],
+  "1588": [
+    { "x": 11, "y": 14, "files": [
+      "/Picture/moriwo_picture_07_01a.png",
+      "/Picture/moriwo_picture_07_00_cmn.png",
+      "/Picture/moriwo_picture_07_01b.png",
+      "/Picture/moriwo_picture_07_01c.png",
+      "/Picture/moriwo_picture_07_01.png",
+      "/Picture/moriwo_picture_07_lgt.png",
+      "/Picture/moriwo_picture_07_02.png",
+      "/Picture/moriwo_picture_07_03.png",
+      "/Picture/moriwo_picture_07_04.png",
+      "/Picture/moriwo_picture_07_05.png",
+      "/Picture/moriwo_picture_07_08.png",
+      "/Picture/moriwo_picture_07_06.png"
     ]}
   ],
   "1624": [
@@ -1246,6 +1330,10 @@
     "/Picture/moriwo_picture_15b.png",
     "/Sound/打撃2.opus"
     ]}
+  ],
+  "1698": [
+    "/Map1699.lmu",
+    "/CharSet/aediorugap キャラ36.png"
   ],
   "1711": [
     "/Map1712.lmu",

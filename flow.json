@@ -13,7 +13,8 @@
     "/Picture/魚2.png",
     "/Picture/神速猫パンチ３.png",
     "*/Map0004.lmu",
-    "/CharSet/イベント15.png"
+    "/CharSet/イベント15.png",
+    "*/CharSet/錆.png"
   ],
   "0005/0222": [
     "/Sound/noizu4.opus",
@@ -30,7 +31,7 @@
     "/Panorama/entrance6.bmp",
     "/Panorama/entrance orange.bmp"
   ],
-  "0007": [
+  "0007/0223": [
     "*/CharSet/sabituki A5.png",
     "/CharSet/sabituki4.png",
     "/CharSet/sabituki A3.png",
@@ -47,6 +48,8 @@
     "/CharSet/sabituki8.png",
     "/CharSet/sabituki A10.png",
     "/CharSet/sabituki_another.png",
+    "/CharSet/錆2.png",
+    "/CharSet/錆3.png",
     "*/CharSet/sabituki tuneru.png",
     "/CharSet/sabituki tuneru2.png",
     "/CharSet/sabituki tuneru3.png",
@@ -67,6 +70,9 @@
   ],
   "0012": [
     "/Map0059.lmu"
+  ],
+  "0017": [
+    "/Map0018.lmu"
   ],
   "0025": [
     "/Map0106.lmu",
@@ -239,6 +245,9 @@
     "/Panorama/エレベーター8.png",
     "/Panorama/エレベーター9.png"
   ],
+  "0219": [
+    "/CharSet/smile2.png"
+  ],
   "0225": [
     "/Panorama/エレベーター3.png",
     "/Panorama/エレベーター2.png",
@@ -307,11 +316,48 @@
   "0265": [
     "/Panorama/sugar.png"
   ],
+  "0267": [
+    "/Picture/room1.png",
+    { "delay": 500, "slow": true, "files": [
+      "/Picture/room3.png",
+      "/Picture/room4.png",
+      "/Picture/room5.png",
+      "/Picture/room6.png",
+      "/Picture/room7.png",
+      "/Picture/rustf1.png",
+      "/Picture/room8.png",
+      "/Picture/rustf2.png",
+      "/Picture/rustf3.png",
+      "/Picture/rustf4.png",
+      "/Picture/room9.png",
+      "/Picture/rustf5.png",
+      "/Picture/rustf6.png",
+      "/Picture/rustf7.png",
+      "/Picture/room10.png",
+      "/Picture/room11.png",
+      "/Picture/room12.png",
+      "/Picture/room13.png",
+      "/Picture/room14.png",
+      "/Picture/room15.png",
+      "/Picture/room16.png",
+      "/Picture/room17.png",
+      "/Picture/room18.png",
+      "/Picture/room19.png",
+      "/Picture/room20.png",
+      "/Picture/room21.png",
+      "/Picture/room22.png",
+      "/Picture/room23.png"
+    ]}
+  ],
   "0269": [
     "/Panorama/girls2.png",
     "/Panorama/girls3.png",
     "/Panorama/girls4.png",
     "/Map0264.lmu"
+  ],
+  "0286": [
+    "/Picture/smile-h.png",
+    "/Picture/smile-h2.png"
   ],
   "0291": [
     "/Music/bgm54.opus"

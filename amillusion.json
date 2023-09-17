@@ -140,65 +140,32 @@
     ]}
   ],
   "0070": [
-    "/Picture/Alexandrine;.png",
-    "/Picture/Mange6.png",
-    "/Picture/PianoaiP-1.png",
-    "/Picture/PianoaiP-3.png",
-    "/Picture/PianoaiP-2.png",
-    "/Picture/PianoaiP-4.png",
-    "/Picture/PianoaiP-5.png",
-    "/Picture/PianoaiP-6.png",
-    "/Picture/Soiree-1.png",
-    "/Panorama/CavernOpop.png",
-    "/Picture/Soiree-2.png",
-    "/Picture/Soiree-3.png",
     "/Picture/Soiree-5.png",
     "/Panorama/Mistillite.png",
     "/Panorama/Figues.png",
-    "/Panorama/Noirfond.png",
-    "/Picture/Oulala1.png",
-    "/Picture/Oulala2.png",
-    "/Picture/Oulala3.png",
-    "/Picture/Cafe1.png",
-    "/Picture/Cafe2.png",
-    "/Picture/Fleur12.png",
-    "/Picture/Fleur2.png",
-    "/Picture/Fleur3.png",
-    "/Picture/Fleur4.png",
-    "/Picture/Fleur5.png",
-    "/Picture/Fleur6.png",
     "/Picture/Fleur7.png",
     "/Picture/Fleur8.png",
     "/Picture/Fleur9.png",
     "/Picture/Fleur10.png",
     "/Picture/Fleur11.png",
     "/Picture/Fleur1.png",
-    "/Picture/Bougliglou1.png",
-    "/Picture/Bougliglou2.png",
-    "/Picture/Bougliglou3.png",
-    "/Picture/Bougliglou4.png",
-    "/Picture/Bougliglou5.png",
-    "/Picture/Bougliglou6.png",
-    "/Picture/Bougliglou7.png",
     "/Picture/Bougliglou8.png",
     "/Picture/Bougliglou9.png",
     "/Picture/Bougliglou10.png",
-    "/Picture/Bougliglou11.png",
     "/Picture/Bougliglou12.png",
+    "/Picture/Bougliglou11.png",
     "/Picture/Bougliglou13.png",
     "/Picture/Bougliglou14.png",
-    "/Picture/Gold.png",
-    "/Picture/ChaineTVAlex.png",
-    "/Picture/Fondinfos.png",
-    "/Music/Praline.opus",
-    "/Music/PianoaiP.opus",
-    "/Music/Soiree.opus",
-    "/Music/Pluijolijoli.opus",
-    "/Music/Mamy-Rave.opus",
-    "/Music/LeGrobegonia.opus",
-    "/Music/Neunoeil.opus",
-    "/Music/Gold.opus",
-    "/Music/Infos.opus"
+    { "delay": 400, "slow": true, "files": [
+      "/Music/Praline.opus",
+      "/Music/PianoaiP.opus",
+      "/Music/Pluijolijoli.opus",
+      "/Music/Mamy-Rave.opus",
+      "/Music/LeGrobegonia.opus",
+      "/Music/Neunoeil.opus",
+      "/Music/Gold.opus",
+      "/Music/Infos.opus"
+    ]}
   ],
   "0071": [
     "/Panorama/Chateau2.png",
@@ -213,6 +180,10 @@
   "0084": [
     "/Map0085.lmu",
     "/Panorama/ete.png"
+  ],
+  "0089": [
+    "/Map0200.lmu",
+    "/ChipSet/pluie+epacse2.png"
   ],
   "0103": [
     "/Sound/Bouton.opus",
@@ -293,6 +264,12 @@
     "/Picture/chezroxaneombre2.png",
     "/Picture/chezroxaneombre1.png"
   ],
+  "0169": [
+    "/Map0171.lmu",
+    "/Panorama/fonplui2.png",
+    "/ChipSet/bobos.png",
+    "/CharSet/linge.png"
+  ],
   "0170": [
     "/Map0157.lmu",
     "/Panorama/tapis;.png",
@@ -324,11 +301,57 @@
     "/Picture/ImageLivrePhotoAlexImg1.png",
     "/Picture/Photo-2.png",
     "/Picture/Photo-1.png",
-    "/Picture/album photo.png"
+    "/Picture/album photo.png",
+    "*/Map0005.lmu",
+    "/Panorama/ciel jour reve.png",
+    "/ChipSet/balcon-reve.png",
+    "/CharSet/visiteurs .png",
+    "/CharSet/evenements .png",
+    "/Picture/panneau-bus-balcon.png",
+    "/Picture/ombres-arbres-1 V.2.png",
+    "/Picture/ombres-arbres-2 V.2.png",
+    "/Picture/ombres-arbres-3 V.2.png"
   ],
   "0184": [
-    "/Picture/Tv1.png",
-    "/Picture/Tv2.png"
+    { "delay": 1000, "slow": true, "files": [
+      "*/Picture/Tv1.png",
+      "/Picture/Tv2.png",
+      "*/Panorama/Noirfond.png",
+      "/Picture/Mange6.png",
+      "/Picture/Alexandrine;.png",
+      "/Picture/PianoaiP-1.png",
+      "/Picture/PianoaiP-3.png",
+      "/Picture/PianoaiP-2.png",
+      "/Picture/PianoaiP-4.png",
+      "/Picture/PianoaiP-5.png",
+      "/Picture/PianoaiP-6.png",
+      "/Picture/Soiree-1.png",
+      "/Panorama/CavernOpop.png",
+      "/Picture/Soiree-2.png",
+      "/Picture/Soiree-3.png",
+      "/Picture/Oulala1.png",
+      "/Picture/Oulala2.png",
+      "/Picture/Oulala3.png",
+      "/Picture/Cafe1.png",
+      "/Picture/Cafe2.png",
+      "/Picture/Fleur12.png",
+      "/Picture/Fleur2.png",
+      "/Picture/Fleur3.png",
+      "/Picture/Fleur4.png",
+      "/Picture/Fleur5.png",
+      "/Picture/Fleur6.png",
+      "/Picture/Gold.png",
+      "/Picture/ChaineTVAlex.png",
+      "/Picture/Fondinfos.png",
+      "/Picture/Bougliglou1.png",
+      "/Picture/Bougliglou2.png",
+      "/Picture/Bougliglou3.png",
+      "/Picture/Bougliglou4.png",
+      "/Picture/Bougliglou5.png",
+      "/Picture/Bougliglou6.png",
+      "/Picture/Bougliglou7.png",
+      "/Music/Soiree.opus"
+    ]}
   ],
   "0186": [
     "/Music/Ambiance+Wouhouhou.opus"
@@ -366,6 +389,10 @@
     "/Map0208.lmu",
     "/ChipSet/MondeGlace(Ski).png",
     "/CharSet/MondeGlacePerso(Ski).png"
+  ],
+  "0212": [
+    "/Picture/astro-etageFINBas.png",
+    "/Picture/astro-etageFINHaut.png"
   ],
   "0223": [
     "/Map0175.lmu",

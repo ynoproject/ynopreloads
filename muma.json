@@ -200,6 +200,9 @@
     "/Panorama/sunset3.png",
     "/Panorama/sunset4.png"
   ],
+  "event0064": [
+    "/Panorama/jungle3.png"
+  ],
   "0064": [
     "/CharSet/orbDoors.png"
   ],
@@ -251,6 +254,11 @@
   "event0079": [
     "/Picture/lightup.png"
   ],
+  "0080": [
+    "/Picture/refletBlueEr.png",
+    "/Sound/ally.opus",
+    "/Sound/crushed2.opus"
+  ],
   "event0085/event0087": [
     "/CharSet/Muma-Neon.xyz"
   ],
@@ -290,6 +298,12 @@
     "/ChipSet/jail.png",
     "/CharSet/muma10.png"
   ],
+  "0104": [
+    "/Picture/cuveanim.png",
+    "/Sound/ally.opus",
+    "/Sound/SFXLandSnd.opus",
+    "/Sound/SFXPunchSnd.opus"
+  ],
   "0105": [
     "/Map0106.lmu",
     "/Panorama/hazebg.png",
@@ -322,5 +336,9 @@
     "/Picture/kazamino_bus_truemuma_start.png",
     "/Picture/kazamino_bus_trueempty_start.png",
     "/Picture/kazamino_bus_trueempt_ride.png"
+  ],
+  "0129": [
+    "/Picture/game over2.png",
+    "/Picture/black.png"
   ]
 }

@@ -853,20 +853,101 @@
     "/Map0385.lmu"
   ],
   "0412": [
-    "/Picture/shitawaku_selectionofeffect.png",
+    "*/Picture/shitawaku_selectionofeffect.png",
     "/Picture/shitawaku_howtoreturn.png",
     "/Picture/shitawaku_bomb_y.png",
     "/Picture/shitawaku_bomb_n.png",
     "/Picture/shitawaku_hoho_y.png",
     "/Picture/shitawaku_hoho_n.png",
     "/Picture/shitawaku_goout_y.png",
-    "/Picture/shitawaku_goout_n.png"
+    "/Picture/shitawaku_goout_n.png",
+    "*/Picture/shitawaku_bane.png",
+    "/Picture/shitawaku_urotsuki.png",
+    "/Picture/shitawaku_akazukin.png",
+    "/Picture/shitawaku_teruterubouzu.png",
+    "/Picture/shitawaku_teruteruzukin.png",
+    "/Picture/shitawaku_haniwa.png",
+    "/Picture/shitawaku_cake.png",
+    "/Picture/shitawaku_haniwacake.png",
+    "/Picture/shitawaku_megane.png",
+    "/Picture/shitawaku_twintail.png",
+    "/Picture/shitawaku_twintailmegane.png",
+    "/Picture/shitawaku_ookami.png",
+    "/Picture/shitawaku_bike.png",
+    "/Picture/shitawaku_ookamibike.png",
+    "/Picture/shitawaku_marginal.png",
+    "/Picture/shitawaku_niji.png",
+    "/Picture/shitawaku_chainsaw.png",
+    "/Picture/shitawaku_gibusu.png",
+    "/Picture/shitawaku_uchufuku.png",
+    "/Picture/shitawaku_kurodenwa.png",
+    "/Picture/shitawaku_maiko.png",
+    "/Picture/shitawaku_mushi.png",
+    "/Picture/shitawaku_tissue.png",
+    "/Picture/shitawaku_otokonoko.png",
+    "/Picture/shitawaku_koumori.png",
+    "/Picture/shitawaku_medamabakudan.png",
+    "/Picture/shitawaku_penguin.png",
+    "/Picture/shitawaku_toumei.png",
+    "/Picture/shitawaku_kodomo.png",
+    "/Picture/shitawaku_gakuran.png",
+    "/Picture/shitawaku_kantera.png",
+    "/Picture/shitawaku_senobi.png",
+    "/Picture/shitawaku_trombone.png",
+    "/Picture/shitawaku_polygon.png",
+    "/Picture/shitawaku_yousei.png",
+    "/Picture/shitawaku_doramukan.png",
+    "/Picture/shitawaku_ohaka.png",
+    "/Picture/shitawaku_fumikiri.png",
+    "/Picture/shitawaku_usamimi.png",
+    "/Picture/shitawaku_saikoro.png",
+    "*/CharSet/yukihitsuji_game_walk_c1.png",
+    "/CharSet/yukihitsuji_game_walk_c2.png",
+    "/CharSet/yukihitsuji_game_walk_c3.png",
+    "/CharSet/yukihitsuji_game_walk_c4.png",
+    "/CharSet/yukihitsuji_game_walk_c5.png",
+    "/CharSet/yukihitsuji_game_swim_c.png",
+    "/CharSet/yukihitsuji_game_bomb.png",
+    "/CharSet/yukihitsuji_game_hoho_c1.png",
+    "/CharSet/yukihitsuji_game_hoho_c2.png",
+    "/CharSet/yukihitsuji_game_hoho_c3.png",
+    "/CharSet/yukihitsuji_game_hoho_c4.png",
+    "/CharSet/yukihitsuji_game_hoho_c5.png"
   ],
   "0424": [
     { "x": 1, "y": 10, "files": [
     "/CharSet/light-1.png",
     "/CharSet/light-2.png"
     ]}
+  ],
+  "0431": [
+    { "x": "29/30", "y": "9/9", "files": [
+      "/CharSet/dedp_syujinkou.png"
+    ]}
+  ],
+  "0432/0433/0435/0992/1425": [
+    "/Picture/39ninme_Picture_GB3.png",
+    "/Picture/39ninme_Picture_GBc1.png",
+    "/Picture/39ninme_Picture_GB7.png",
+    "/Picture/39ninme_Picture_GB8.png",
+    "/Picture/39ninme_Picture_GB9.png",
+    "/Picture/39ninme_Picture_GB10.png",
+    "/Picture/39ninme_Picture_GB6.png",
+    "/Picture/39ninme_Picture_GB4.png",
+    "/CharSet/39ninme_CharSet_GB_syujinkou1.png",
+    "/CharSet/39ninme_CharSet_GB_syujinkou2.png",
+    "/CharSet/39ninme_CharSet_GB_syujinkou3.png",
+    "/CharSet/39ninme_CharSet_GB_syujinkou4.png",
+    "/CharSet/39ninme_CharSet_GB_syujinkou5.png",
+    "/CharSet/39ninme_CharSet_GB_syujinkou6.png",
+    "/CharSet/39ninme_CharSet_GB_syujinkou_mix.png",
+    "/Sound/GB_select_2.opus",
+    "/Sound/GB_select_1.opus",
+    "/Sound/GB_select_3.opus",
+    "/Sound/GB_effect_1.opus"
+  ],
+  "0433": [
+    "/Picture/39ninme_Picture_GB2.png"
   ],
   "0442": [
     "/Picture/dedp_kumo.png",
@@ -1127,6 +1208,10 @@
     "/Map0765.lmu",
     "/Panorama/juda_kaidan2.png"
   ],
+  "0802": [
+    "/Map1187.lmu",
+    "/CharSet/2i9_charset3.png"
+  ],
   "0808": [
     "/Map1524.lmu",
     "/CharSet/2i9_charset13.png",
@@ -1166,6 +1251,29 @@
       "/Picture/2i9_pic_swing_frame.png",
       "/Picture/2i9_pic_swing_03_1.png",
       "/Picture/2i9_pic_swing_03_2.png"
+    ]}
+  ],
+  "0854": [
+    { "x": 84, "y": 132, "files": [
+      "/CharSet/2i9_charset_syujinkou.png",
+      "/Panorama/2i9_pano15.png",
+      "/Picture/2i9_pic_overlay01.png",
+      "/Picture/2i9_Picture_9a.png",
+      "/Picture/2i9_Picture_9b.png",
+      "/Picture/2i9_Picture_9c.png",
+      "/Picture/2i9_Picture_15.png",
+      "/Picture/2i9_Picture_Tr1.png",
+      "/Picture/2i9_Picture_Tr2.png",
+      "/Picture/2i9_Picture_Tr3.png",
+      "/Picture/2i9_Picture_Tr4.png",
+      "/Picture/2i9_Picture_Tr5.png",
+      "/Picture/2i9_Picture_Tr6.png",
+      "/Picture/2i9_Picture_Tr7.png",
+      "/Picture/2i9_Picture_Tr8.png",
+      "/Picture/2i9_Picture_16a.png",
+      "/Picture/2i9_Picture_16b.png",
+      "/Picture/2i9_Picture_17a.png",
+      "/Picture/2i9_Picture_17b.png"
     ]}
   ],
   "0856": [
@@ -1210,6 +1318,11 @@
     "/Map0973.lmu",
     "/Panorama/obso2.png",
     "/Picture/pleiades_nasa.xyz"
+  ],
+  "0994": [
+    "/Panorama/Blank_Hole_2.png",
+    "/Panorama/Blank_Hole_3.png",
+    "/Panorama/Blank_Hole_4.png"
   ],
   "1102": [
     "*/Map1173.lmu",
@@ -1260,9 +1373,19 @@
     "/Panorama/Kontentsu2.png",
     "/ChipSet/Kontentsu_chipset2.png"
   ],
+  "1314": [
+    "/Map2283.lmu",
+    "/Panorama/Colby_Pan_05.png",
+    "/ChipSet/Colby_Chipset_03.png",
+    "/CharSet/Colby_Charset_01.png"
+  ],
   "1353": [
     "/Map1354.lmu",
     "/CharSet/srd_charchip2.png"
+  ],
+  "1372": [
+    "/Map1376.lmu",
+    "/Panorama/sniperpano7.png"
   ],
   "1416": [
     "/Sound/ひゅるる.opus",
@@ -1452,6 +1575,38 @@
   ],
   "2239": [
     "/ChipSet/Colby_Chipset_03.png"
+  ],
+  "2281": [
+    { "x": "50/58", "y": "71/59", "files": [
+      "/Map2282.lmu",
+      "/Picture/Colby_Picture_27.png",
+      "/Picture/Colby_Picture_30.png",
+      "/Music/vyvyde - blinded4.opus"
+    ]}
+  ],
+  "2283": [
+    "*/Map2281.lmu",
+    "/Panorama/Colby_Pan_04.png",
+    "/ChipSet/Colby_Chipset_05.png",
+    "/CharSet/Colby_Charset_08.png",
+    "*/Map1314.lmu",
+    "/ChipSet/Nuaah's_Map_chip_XIX.png"
+  ],
+  "2472": [
+    "/Panorama/meta_purpleroomoff.png",
+    "/Panorama/meta_purpleroomevent1.png",
+    "/Panorama/meta_purpleroomevent2.png",
+    "/Panorama/meta_purpleroomevent3.png",
+    "/Panorama/meta_purpleroomevent4.png",
+    "/Panorama/meta_purpleroomevent5.png",
+    "/Panorama/meta_purpleroomevent6.png",
+    "/Panorama/meta_purpleroomevent7.png",
+    "/Panorama/meta_purpleroomevent8.png",
+    "/Panorama/meta_purpleroomevent9.png",
+    "/Panorama/meta_purpleroomevent10.png",
+    "/Panorama/meta_purpleroomevent11.png",
+    "/Panorama/meta_purpleroomevent12.png",
+    "/Music/meta_bloom.opus"
   ],
   "2011": [
     "/Panorama/cheo_button64.png",

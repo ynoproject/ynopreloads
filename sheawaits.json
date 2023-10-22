@@ -1,0 +1,58 @@
+{
+  "title": [
+    "/FaceSet/profile-noelia.png",
+    "/Sound/Cursor1.opus",
+    "/Sound/Decision1.opus",
+    "/Sound/Cancel1.opus",
+    "/Sound/Cancel2.opus"
+  ],
+  "0002": [
+    "/Battle/ani-save.png"
+  ],
+  "0003/0005": [
+    "/CharSet/sprite-noelia.png",
+    "/CharSet/sprite-deer.png",
+    "/Battle/ani-effectandcoin.png"
+  ],
+  "0005": [
+    "/CharSet/sprite-noelia-effects.png",
+    "/CharSet/sprite-noelia-effects-2.png",
+    "/Sound/Recovery6.opus",
+    "/Sound/Med_Laugh_1.opus",
+    "/Sound/Holy8.opus",
+    "/Sound/Holy9.opus"
+  ],
+  "0006": [
+    "*/Map0010.lmu",
+    "/ChipSet/tileset-01_index.png",
+    "/CharSet/sprite-obj-flowers_index.png",
+    "*/Map0009.lmu",
+    "/Panorama/bkg-01.PNG",
+    "/ChipSet/tileset-02_index.png",
+    "*/Map0011.lmu",
+    "/Panorama/bkg-garden.PNG",
+    "/ChipSet/tileset-03_index.png",
+    "*/Map0012.lmu",
+    "/ChipSet/tileset-04_index.png",
+    "*/Map0038.lmu"
+  ],
+  "0012": [
+    "/Map0027.lmu"
+  ],
+  "0019": [
+    "/Map0043.lmu",
+    "/Panorama/bkg-fairywater.png",
+    "/ChipSet/tileset-fairyportal.png",
+    "/CharSet/sprite-deer.png"
+  ],
+  "0032": [
+    "/Battle/2003 Holy.png",
+    "/Sound/Ice4.opus",
+    "*/CharSet/sprite-noelia-effects-consit.png",
+    "/CharSet/sprite-noelia-effects-consit-2.png"
+  ],
+  "0054": [
+    "/Map0056.lmu",
+    "/ChipSet/tileset-anatomicaldesert.png"
+  ]
+}

@@ -705,6 +705,10 @@
     "/Panorama/cheo_button62.png",
     "/Panorama/cheo_button63.png"
   ],
+  "0116": [
+    "/Sound/dedpA1_05107.opus",
+    "/CharSet/wataru キャラ３１.png"
+  ],
   "0136": [
     "/Picture/dedp_TV_noize_big.png",
     "/Picture/dedp_mizu-2.png"
@@ -724,6 +728,13 @@
     "/Picture/kappa_kura-maze_F2+WallPaint.png",
     "/Picture/kappa_kura-maze_R1+WallPaint.png",
     "/Picture/kappa_kura-maze_L1+WallPaint.png"
+  ],
+  "0149": [
+    "/Picture/kura map.png"
+  ],
+  "0165": [
+    "/Map0220.lmu",
+    "/CharSet/oudn-charset05.png"
   ],
   "0177": [
     "/CharSet/syujinkou_saba.png"
@@ -766,6 +777,28 @@
     "/Music/ループ「深海」By音師竹内.opus"
     ]}
   ],
+  "0213": [
+    { "x": "16/5", "y": "51/54", "files": [
+      "/Music/piano1.opus"
+    ]},
+    { "x": 116, "y": 9, "files": [
+      "/Music/trom_piano.opus"
+    ]},
+    "/Picture/hekiga01.png",
+    "/Picture/hekiga02.png",
+    "/Picture/hekiga03.png",
+    "/Picture/hekiga04.png",
+    "/Picture/hekiga05.png",
+    "/Picture/hekiga06.png",
+    "/Picture/hekiga07.png"
+  ],
+  "0220": [
+    "/Map0165.lmu",
+    "/CharSet/夢箱-5.png"
+  ],
+  "0233": [
+    "/Map0234.lmu"
+  ],
   "event0253": [
     "/Sound/dedpA1_05107.opus"
   ],
@@ -776,7 +809,7 @@
     "/CharSet/ded_space_suitu.png",
     "/CharSet/dedp_syoutaihuemi4.png"
   ],
-  "0255": [
+  "0255/1659": [
     "/Picture/dedp_light_T_l3q.png",
     "/Picture/dedp_light_T_l2q.png",
     "/Picture/dedp_light_T_l1q.png",
@@ -796,6 +829,18 @@
   "0272": [
     "/Picture/20_Picture_45.png",
     "/Picture/20_Picture_46.png"
+  ],
+  "0284": [
+    "/Picture/oudn-picture02.png",
+    "/Picture/haniwa-01.png",
+    "/Picture/haniwa-02.png",
+    "/Picture/oudn-picture03.png",
+    "/Picture/oudn-picture04.png",
+    "/Picture/oudn-picture05.png",
+    "/Picture/oudn-picture06.png",
+    "/Picture/haniwa-03.png",
+    "/Picture/haniwa-04.png",
+    "/Music/bgm-n.opus"
   ],
   "0289": [
     { "x": "43/44", "y": "38/38", "files": [
@@ -901,6 +946,7 @@
     "/Picture/shitawaku_fumikiri.png",
     "/Picture/shitawaku_usamimi.png",
     "/Picture/shitawaku_saikoro.png",
+    "/Picture/shitawaku_mage.png",
     "*/CharSet/yukihitsuji_game_walk_c1.png",
     "/CharSet/yukihitsuji_game_walk_c2.png",
     "/CharSet/yukihitsuji_game_walk_c3.png",
@@ -1383,9 +1429,89 @@
     "/Map1354.lmu",
     "/CharSet/srd_charchip2.png"
   ],
+  "1371": [
+    { "x": 129, "y": 7, "files": [
+      "/Picture/sniperbob_waterview.png",
+      "/Picture/sniperbob_waterview2.png",
+      "/Picture/sniperbob_3d1.png",
+      "/Picture/sniperbob_3d32.png",
+      "/Picture/sniperbob_3d2.png",
+      "/Picture/sniperbob_3d3.png",
+      "/Picture/sniperbob_3d4.png",
+      "/Picture/sniperbob_3d35.png",
+      "/Picture/sniperbob_3d5.png",
+      "/Picture/sniperbob_3d36.png",
+      "/Picture/sniperbob_3d37.png",
+      "/Picture/sniperbob_3d38.png",
+      "/Picture/sniperbob_3d39.png",
+      "/Picture/sniperbob_3d40.png",
+      "/Picture/sniperbob_3d11.png",
+      "/Picture/sniperbob_3d12.png",
+      "/Picture/sniperbob_3d13.png",
+      "/Picture/sniperbob_3d14.png",
+      "/Picture/sniperbob_3d15.png",
+      "/Picture/sniperbob_3d16.png",
+      "/Picture/sniperbob_3d17.png",
+      "/Picture/sniperbob_3d24.png",
+      "/Picture/sniperbob_3d23.png",
+      "/Picture/sniperbob_3d22.png",
+      "/Picture/sniperbob_3d21.png",
+      "/Picture/sniperbob_3d20.png",
+      "/Picture/sniperbob_3d19.png",
+      "/Picture/sniperbob_3d18.png",
+      "/Picture/sniperbob_3d28.png",
+      "/Picture/sniperbob_3d27.png",
+      "/Picture/sniperbob_3d26.png",
+      "/Picture/sniperbob_3d25.png",
+      "/Picture/sniperbob_3d29.png",
+      "/Picture/sniperbob_3d30.png",
+      "/Picture/sniperbob_3d31.png",
+      "/Picture/sniperbob_3d34.png",
+      "/Picture/sniperbob_3d33.png",
+      "/Picture/sniperbob_3d46.png",
+      "/Picture/sniperbob_3d45.png",
+      "/Picture/sniperbob_3d44.png",
+      "/Picture/sniperbob_3d43.png",
+      "/Picture/sniperbob_3d42.png",
+      "/Picture/sniperbob_3d41.png",
+      "/Picture/sniperbob_3d47.png",
+      "/Picture/sniperbob_3d48.png",
+      "/Picture/sniperbob_3d49.png",
+      "/Picture/sniperbob_3d50.png",
+      "/Picture/sniperbob_3d51.png",
+      "/Picture/sniperbob_3d52.png",
+      "/Picture/sniperbob_3d58.png",
+      "/Picture/sniperbob_3d57.png",
+      "/Picture/sniperbob_3d56.png",
+      "/Picture/sniperbob_3d55.png",
+      "/Picture/sniperbob_3d54.png",
+      "/Picture/sniperbob_3d53.png",
+      "/Picture/sniperbob_3d59.png",
+      "/Picture/sniperbob_3d60.png",
+      "/Picture/sniperbob_3d61.png",
+      "/Picture/sniperbob_3d62.png",
+      "/Picture/sniperbob_3d63.png",
+      "/Picture/sniperbob_3d64.png",
+      "/Picture/sniperbob_3d69.png",
+      "/Picture/sniperbob_3d68.png",
+      "/Picture/sniperbob_3d67.png",
+      "/Picture/sniperbob_3d66.png",
+      "/Picture/sniperbob_3d65.png",
+      "/Picture/sniperbob_3d7.png",
+      "/Picture/sniperbob_3d6.png",
+      "/Picture/sniperbob_3d8.png",
+      "/Picture/sniperbob_3d9.png",
+      "/Picture/sniperbob_3d10.png",
+      "/Picture/sniperbob_3ddudesing1.png",
+      "/Picture/sniperbob_3ddudesing2.png"
+    ]}
+  ],
   "1372": [
-    "/Map1376.lmu",
-    "/Panorama/sniperpano7.png"
+    "*/Map1376.lmu",
+    "/Panorama/sniperpano7.png",
+    "*/Panorama/sniperpano2.png",
+    "/ChipSet/sniper_1_13.png",
+    "/Music/bgm075.opus"
   ],
   "1416": [
     "/Sound/ひゅるる.opus",
@@ -1446,6 +1572,11 @@
     "/CharSet/aediorugap キャラ43.png",
     "/CharSet/aediorugap キャラ40.png",
     "/CharSet/aediorugap キャラ54.png"
+  ],
+  "1659": [
+    "/Picture/dedp_ぼんやーり３.png",
+    "/Picture/dedp_ぼんやーり２.png",
+    "/Picture/dedp_ぼんやーり１.png"
   ],
   "1661": [
     { "x": 60, "y": 68, "files": [
@@ -1523,6 +1654,12 @@
     "/Panorama/21keb_panorama_13.bmp",
     "/Panorama/21keb_panorama_12.bmp"
   ],
+  "2183": [
+    "/Map2182.lmu",
+    "/Panorama/towanota_panorama_1.bmp",
+    "/ChipSet/towanota_chip1.bmp",
+    "/CharSet/towanota_charset_2.bmp"
+  ],
   "2221": [
     "/Picture/blursky.png",
     "/Picture/eyeguy1.png",
@@ -1591,6 +1728,18 @@
     "/CharSet/Colby_Charset_08.png",
     "*/Map1314.lmu",
     "/ChipSet/Nuaah's_Map_chip_XIX.png"
+  ],
+  "2304": [
+    "/Map2305.lmu",
+    "/ChipSet/doctor_草原2.png"
+  ],
+  "2306": [
+    "/Map2307.lmu",
+    "/CharSet/wataru 主人公　カヌー移動.png"
+  ],
+  "2307": [
+    "/CharSet/doctor_熊.png",
+    "/Map2308.lmu"
   ],
   "2472": [
     "/Panorama/meta_purpleroomoff.png",

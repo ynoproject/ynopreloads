@@ -42,6 +42,7 @@
     "/Picture/minigame_01.png",
     "/Picture/minigame_04.png",
     "/Picture/minigame_06.png",
+    "/Picture/minigame_06_new.png",
     "/Picture/minigame_07.png",
     "/Picture/minigame_08.png",
     "/Picture/minigame_09.png"
@@ -772,6 +773,11 @@
       "/Sound/se-1.opus"
     ]}
   ],
+  "0198": [
+    "/CharSet/kodomo_04.png",
+    "/CharSet/dedp_otona.png",
+    "/CharSet/effect-akazukin.png"
+  ],
   "0205": [
     { "x": "29/30", "y": "1/1", "files": [
     "/Music/ループ「深海」By音師竹内.opus"
@@ -847,6 +853,9 @@
     "/Map0290.lmu",
     "/Panorama/oudn-panorama04.png"
     ] }
+  ],
+  "0344": [
+    "/Picture/Jekyle_title2.xyz"
   ],
   "0352": [
     "/Map0360.lmu",
@@ -971,7 +980,7 @@
       "/CharSet/dedp_syujinkou.png"
     ]}
   ],
-  "0432/0433/0435/0992/1425": [
+  "0432/0433/0435/0992/1425/1477": [
     "/Picture/39ninme_Picture_GB3.png",
     "/Picture/39ninme_Picture_GBc1.png",
     "/Picture/39ninme_Picture_GB7.png",
@@ -1241,6 +1250,13 @@
     "/CharSet/2i9_charset5.png",
     "/CharSet/2i9_charset9.png"
   ],
+  "0714": [
+    "/Picture/mekakusi-l.png",
+    "/Picture/mekakusi-r.png",
+    "/Picture/spelude-nozoki.png",
+    "/Picture/spelude-nozoki2.png",
+    "/Picture/spelude-nozoki3.png"
+  ],
   "0716": [
     "*/Map0717.lmu",
     "/ChipSet/ehon uxiru.png",
@@ -1369,6 +1385,19 @@
     "/Panorama/Blank_Hole_2.png",
     "/Panorama/Blank_Hole_3.png",
     "/Panorama/Blank_Hole_4.png"
+  ],
+  "1013": [
+    { "x": 113, "y": 48, "files" : [
+      "/Map1012.lmu",
+      "/ChipSet/RioChip6.png",
+      "/CharSet/RioCharset10.png",
+      "/CharSet/wataru キャラ３０.png"
+    ]}
+  ],
+  "1017": [
+    { "x": 156, "y": 33, "files": [
+      "/Picture/RioPicture8.png"
+    ]}
   ],
   "1102": [
     "*/Map1173.lmu",
@@ -1538,6 +1567,15 @@
     "/CharSet/octave_02.png",
     "/CharSet/Kontentsu_charaset1.png"
   ],
+  "1477": [
+    "/Picture/RioGBTree1.png",
+    "/Picture/RioGBTree2.png",
+    "/Picture/RioGBTree3.png",
+    "/Picture/RioGBTree4.png",
+    "/Picture/RioGBTree5.png",
+    "/Picture/RioGBTree6.png",
+    "/Picture/RioGBTree7.png"
+  ],
   "1525": [
     { "x": "0/6", "y": "28/28", "files": [
       "/CharSet/2i9_charset_syujinkou.png",
@@ -1598,6 +1636,9 @@
     "/Map1720.lmu",
     "/ChipSet/samayou-chipset7.png",
     "/CharSet/samayou-charset4.png"
+  ],
+  "1733": [
+    "/Panorama/autumnus_mountains.png"
   ],
   "1735": [
     { "x": 47, "y": 14, "files": [
@@ -1699,6 +1740,19 @@
     "/Picture/pickitup1.png",
     "/Picture/pickitup2.png"
   ],
+  "2229": [
+    "*/Picture/namedude_paint1.png",
+    "/Picture/namedude_paint2.png",
+    "/Picture/namedude_paint3.png",
+    "/Picture/namedude_paint4.png",
+    "/Picture/namedude_paint5.png",
+    "/Picture/namedude_paint6.png",
+    "*/Map2230.lmu",
+    "/ChipSet/namedude_maze.png"
+  ],
+  "2230": [
+    "/Picture/namedude_static1.png"
+  ],
   "2238": [
     "/Sound/Colby_Dramatic_Randomizer.opus",
     "/CharSet/Colby_Charset_07.png",
@@ -1740,6 +1794,24 @@
   "2307": [
     "/CharSet/doctor_熊.png",
     "/Map2308.lmu"
+  ],
+  "2452": [
+    "*/ChipSet/61024_Chip_black.png",
+    "*/Picture/61024_pic_train_2.png",
+    "/Picture/61024_pic_train_3.png",
+    "/Picture/61024_pic_train_4.png",
+    "/Picture/61024_pic_train_5.png",
+    "/Picture/61024_pic_train_6.png",
+    "/CharSet/61024_Char_train2.png",
+    "/CharSet/61024_Char_train1.png"
+  ],
+  "2453": [
+    "/Picture/61024_pic_mado5.png",
+    "/Picture/61024_pic_mado0.png",
+    "/Picture/61024_pic_mado1.png",
+    "/Picture/61024_pic_kirikae.png",
+    "/Picture/61024_pic_mado3.4.png",
+    "/Panorama/61024_pano_train2.png"
   ],
   "2472": [
     "/Panorama/meta_purpleroomoff.png",
@@ -2479,14 +2551,90 @@
     "/Picture/pc yumegamen 03-491.xyz",
     "/Picture/pc yumegamen 03-492.xyz",
     "/Picture/pc yumegamen 03-493.xyz",
+    "/Picture/pc yumegamen 03-494.xyz",
+    "/Picture/pc yumegamen 03-495.xyz",
+    "/Picture/pc yumegamen 03-496.xyz",
+    "/Picture/pc yumegamen 03-497.xyz",
+    "/Picture/pc yumegamen 03-498.xyz",
+    "/Picture/pc yumegamen 03-499.xyz",
     "/Picture/pc yumegamen 03-5.xyz",
     "/Picture/pc yumegamen 03-50.xyz",
+    "/Picture/pc yumegamen 03-500.xyz",
+    "/Picture/pc yumegamen 03-501.xyz",
+    "/Picture/pc yumegamen 03-502.xyz",
+    "/Picture/pc yumegamen 03-503.xyz",
+    "/Picture/pc yumegamen 03-504.xyz",
+    "/Picture/pc yumegamen 03-505.xyz",
+    "/Picture/pc yumegamen 03-506.xyz",
+    "/Picture/pc yumegamen 03-507.xyz",
+    "/Picture/pc yumegamen 03-508.xyz",
+    "/Picture/pc yumegamen 03-509.xyz",
     "/Picture/pc yumegamen 03-51.xyz",
+    "/Picture/pc yumegamen 03-510.xyz",
+    "/Picture/pc yumegamen 03-511.xyz",
+    "/Picture/pc yumegamen 03-512.xyz",
+    "/Picture/pc yumegamen 03-513.xyz",
+    "/Picture/pc yumegamen 03-514.xyz",
+    "/Picture/pc yumegamen 03-515.xyz",
+    "/Picture/pc yumegamen 03-516.xyz",
+    "/Picture/pc yumegamen 03-517.xyz",
+    "/Picture/pc yumegamen 03-518.xyz",
+    "/Picture/pc yumegamen 03-519.xyz",
     "/Picture/pc yumegamen 03-52.xyz",
+    "/Picture/pc yumegamen 03-520.xyz",
+    "/Picture/pc yumegamen 03-521.xyz",
+    "/Picture/pc yumegamen 03-522.xyz",
+    "/Picture/pc yumegamen 03-523.xyz",
+    "/Picture/pc yumegamen 03-524.xyz",
+    "/Picture/pc yumegamen 03-525.xyz",
+    "/Picture/pc yumegamen 03-526.xyz",
+    "/Picture/pc yumegamen 03-527.xyz",
+    "/Picture/pc yumegamen 03-528.xyz",
+    "/Picture/pc yumegamen 03-529.xyz",
     "/Picture/pc yumegamen 03-53.xyz",
+    "/Picture/pc yumegamen 03-530.xyz",
+    "/Picture/pc yumegamen 03-531.xyz",
+    "/Picture/pc yumegamen 03-532.xyz",
+    "/Picture/pc yumegamen 03-533.xyz",
+    "/Picture/pc yumegamen 03-534.xyz",
+    "/Picture/pc yumegamen 03-535.xyz",
+    "/Picture/pc yumegamen 03-536.xyz",
+    "/Picture/pc yumegamen 03-537.xyz",
+    "/Picture/pc yumegamen 03-538.xyz",
+    "/Picture/pc yumegamen 03-539.xyz",
     "/Picture/pc yumegamen 03-54.xyz",
+    "/Picture/pc yumegamen 03-540.xyz",
+    "/Picture/pc yumegamen 03-541.xyz",
+    "/Picture/pc yumegamen 03-542.xyz",
+    "/Picture/pc yumegamen 03-543.xyz",
+    "/Picture/pc yumegamen 03-544.xyz",
+    "/Picture/pc yumegamen 03-545.xyz",
+    "/Picture/pc yumegamen 03-546.xyz",
+    "/Picture/pc yumegamen 03-547.xyz",
+    "/Picture/pc yumegamen 03-548.xyz",
+    "/Picture/pc yumegamen 03-549.xyz",
     "/Picture/pc yumegamen 03-55.xyz",
+    "/Picture/pc yumegamen 03-550.xyz",
+    "/Picture/pc yumegamen 03-551.xyz",
+    "/Picture/pc yumegamen 03-552.xyz",
+    "/Picture/pc yumegamen 03-553.xyz",
+    "/Picture/pc yumegamen 03-554.xyz",
+    "/Picture/pc yumegamen 03-555.xyz",
+    "/Picture/pc yumegamen 03-556.xyz",
+    "/Picture/pc yumegamen 03-557.xyz",
+    "/Picture/pc yumegamen 03-558.xyz",
+    "/Picture/pc yumegamen 03-559.xyz",
     "/Picture/pc yumegamen 03-56.xyz",
+    "/Picture/pc yumegamen 03-560.xyz",
+    "/Picture/pc yumegamen 03-561.xyz",
+    "/Picture/pc yumegamen 03-562.xyz",
+    "/Picture/pc yumegamen 03-563.xyz",
+    "/Picture/pc yumegamen 03-564.xyz",
+    "/Picture/pc yumegamen 03-565.xyz",
+    "/Picture/pc yumegamen 03-566.xyz",
+    "/Picture/pc yumegamen 03-567.xyz",
+    "/Picture/pc yumegamen 03-568.xyz",
+    "/Picture/pc yumegamen 03-569.xyz",
     "/Picture/pc yumegamen 03-57.xyz",
     "/Picture/pc yumegamen 03-58.xyz",
     "/Picture/pc yumegamen 03-59.xyz",

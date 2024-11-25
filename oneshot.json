@@ -1,0 +1,214 @@
+{
+  "title": [
+    "*/Sound/TitleClick.opus",
+    "/Sound/TitleSelect.opus",
+    "/Sound/menu_buzzer.opus",
+    "/Sound/menu_cancel.opus",
+    "*/Battle/anim1.png",
+    "/Picture/note.png",
+    "/Picture/ft_title.png",
+    "*/FaceSet/niko.png",
+    "/FaceSet/blue.png",
+    "*/Picture/dream1_1.png",
+    "/Picture/dream2_1.png"
+  ],
+  "event0001": [
+    "/Picture/wake1.png",
+    "/Picture/wake2.png",
+    "/Picture/wake3.png",
+    "/Picture/wake4.png",
+    "/Picture/wake5.png"
+  ],
+  "0002": [
+    "*/CharSet/niko1.png",
+    "*/Picture/item_remote.png",
+    "*/Picture/pc_border.png",
+    "/Picture/scanlines.png",
+    "/Picture/pc_desktop.png",
+    "/Picture/pc_message.png",
+    "/Picture/pc_text1.png",
+    "/Picture/pc_text2.png",
+    "/Picture/pc_text3.png",
+    "/Picture/pc_text4.png",
+    "/Picture/pc_text5.png",
+    "/Picture/pc_text6.png",
+    "/Picture/pc_text7.png",
+    "/Picture/pc_text8.xyz"
+  ],
+  "0005": [
+    "/Picture/item_alcohol.png",
+    "/Picture/item_branch.png",
+    "/Picture/item_blue_bottle_EMPTY.png",
+    "/Picture/item_torch.png",
+    "/Picture/item_key.png"
+  ],
+  "0006": [
+    "/Picture/item_lightbulb.png",
+    "/Picture/door2.png"
+  ],
+  "0009": [
+    "/Picture/ft_b_train.png"
+  ],
+  "0014": [
+    "/Picture/item_blue_screwdriver.png"
+  ],
+  "0016": [
+    "/Picture/ft_b_outpost.png"
+  ],
+  "0017": [
+    "/Picture/item_blue_sponge.png",
+    "*/Picture/ft_b_swamp.png"
+  ],
+  "0018": [
+    "/Picture/ft_b_dock.png"
+  ],
+  "0019": [
+    "/Picture/item_blue_prybar.png",
+    "/Picture/item_blue_battery_dead.png",
+    "*/Picture/ft_b_hotel.png"
+  ],
+  "0020": [
+    "*/Picture/pc_message_barrens.xyz",
+    "/Picture/pc_text_barrens.xyz",
+    "/Picture/pc_message_cursor_barrens.xyz",
+    "/Picture/pc_text_barrens_help1.xyz",
+    "/Picture/pc_text_barrens_help2.xyz",
+    "*/Picture/item_journal.png",
+    "*/Picture/ft_b_cliffs.png",
+    "*/CharSet/tower objects.png"
+  ],
+  "0021": [
+    "/Picture/item_blue_camera.png",
+    "/Picture/item_blue_lens.png",
+    "/Picture/item_blue_battery_fixed.png",
+    "/Picture/item_blue_battery_light.png",
+    "*/Picture/ft_b_mine.png"
+  ],
+  "0022": [
+    "/Picture/item_blue_syringe_EMPTY.png",
+    "/Picture/item_blue_syringe_FULL.png",
+    "/Picture/item_blue_bottle_ACID.png",
+    "/Picture/item_blue_coin.png"
+  ],
+  "0023": [
+    "/Picture/item_blue_bottle_SMOKE.png",
+    "*/Picture/ft_b_vents.png"
+  ],
+  "0024": [
+    "/Picture/ft_g_dock.png"
+  ],
+  "event0025" : [
+    "/Picture/dream1_2.png",
+    "/Picture/dream1_3.png",
+    "/Picture/dream1_4.png"
+  ],
+  "0025": [
+    "/Picture/item_lightbulb.png",
+    "/Picture/item_blue_bottle_EMPTY.png",
+    "/Picture/item_remote.png",
+    "/Picture/item_blue_screwdriver.png",
+    "/Picture/item_blue_sponge.png",
+    "/Picture/item_blue_rod.png",
+    "/Picture/item_blue_prybar.png",
+    "/Picture/item_journal.png",
+    "/Picture/item_blue_camera.png",
+    "/Picture/item_blue_lens.png",
+    "/Picture/item_blue_battery_dead.png",
+    "/Picture/item_blue_battery_fixed.png",
+    "/Picture/item_blue_battery_light.png",
+    "/Picture/item_blue_syringe_EMPTY.png",
+    "/Picture/item_blue_syringe_FULL.png",
+    "/Picture/item_blue_bottle_SMOKE.png",
+    "/Picture/item_blue_bottle_ACID.png",
+    "/Picture/item_blue_coin.png",
+    "*/Picture/ft_b_train.png",
+    "/Picture/ft_b_outpost.png",
+    "/Picture/ft_b_swamp.png",
+    "/Picture/ft_b_hotel.png",
+    "/Picture/ft_b_cliffs.png",
+    "/Picture/ft_b_mine.png",
+    "/Picture/ft_b_vents.png",
+    "/Picture/ft_b_dock.png"
+  ],
+  "0026": [
+    "/Picture/ft_g_village.png"
+  ],
+  "0027": [
+    "/Picture/item_blue_rod.png"
+  ],
+  "0029": [
+    "/Picture/ft_g_ruins.png"
+  ],
+  "0034": [
+    "/Picture/ft_g_forest.png"
+  ],
+  "0035": [
+    "/FaceSet/red.png",
+    "*/Picture/ft_r_wall.png"
+  ],
+  "event0037": [
+    "/Picture/dream2_2.png",
+    "/Picture/dream2_3.png",
+    "/Picture/dream2_4.png"
+  ],
+  "0037": [
+    "/Picture/item_lightbulb.png",
+    "/Picture/item_journal.png",
+    "/Picture/item_blue_coin.png",
+    "/Picture/item_green_Vial.png",
+    "/Picture/item_green_Feather.png",
+    "/Picture/item_green_Wool.png",
+    "/Picture/item_green_Ink.png",
+    "/Picture/item_green_Corn.png",
+    "*/Picture/ft_g_dock.png",
+    "/Picture/ft_g_forest.png",
+    "/Picture/ft_g_village.png",
+    "/Picture/ft_g_ruins.png",
+    "/Picture/ft_g_wall.png"
+  ],
+  "0043": [
+    "/Picture/item_green_Vial.png"
+  ],
+  "0049": [
+    "/Picture/item_lightbulb.png",
+    "/Picture/item_journal.png",
+    "/Picture/item_blue_coin.png",
+    "/Picture/item_green_Feather.png",
+    "/Picture/item_red_die.png",
+    "*/Picture/ft_r_hub.png",
+    "/Picture/ft_r_library.png",
+    "/Picture/ft_r_pancake.png",
+    "/Picture/ft_r_plant.png",
+    "/Picture/ft_r_wall.png"
+  ],
+  "0060": [
+    "/Picture/lightbulb1.png",
+    "/Picture/lightbulb2.png",
+    "/Picture/title_black.png",
+    "/Picture/dice1.png",
+    "/Picture/credit_eliza.xyz",
+    "/Picture/credits2.png",
+    "/Picture/credit_night.png",
+    "/Picture/credits3.png",
+    "/Picture/credit_both.png",
+    "/Picture/credits4.png",
+    "/Picture/credit_testers.png",
+    "/Picture/credits5.png",
+    "/Picture/credit_thanks.png",
+    "/Picture/pc_text_savior_gone.xyz"
+  ],
+  "0062": [
+    "/Picture/pc_text_elevator1.xyz",
+    "/Picture/pc_text_elevator2.xyz",
+    "/Picture/pc_text_elevator4.xyz",
+    "/Picture/pc_text_elevator5.xyz"
+  ],
+  "0063": [
+    "*/FaceSet/george.png",
+    "*/Picture/pc_message.png",
+    "/Picture/pc_text_refuge1.xyz",
+    "/Picture/pc_text_refuge2.xyz",
+    "/Picture/pc_text_refuge3.xyz",
+    "/Picture/pc_text_refuge4.xyz"
+  ]
+}

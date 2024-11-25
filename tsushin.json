@@ -1,0 +1,133 @@
+{
+  "title": [
+    "/FaceSet/actorF.png",
+    "/Sound/Cursor2.opus",
+    "/Sound/select.opus",
+    "/Sound/cancel.opus",
+    "/Sound/buzzer.opus"
+  ],
+  "0001": [
+    "*/Picture/closeyes.png",
+    "/Picture/closeno.png",
+    "*/CharSet/Actor3.png",
+    "/CharSet/Actor4.png",
+    "/CharSet/actor.png",
+    "*/Picture/menub.png",
+    "/Picture/menuchoose.png",
+    "/Picture/menukey.png",
+    "/Picture/backhome.png",
+    "/Picture/menueffects.png",
+    "/Picture/menu.png"
+  ],
+  "0004": [
+    "/Map0003.lmu"
+  ],
+  "0004/0016": [
+    "/Battle/change.png",
+    "/CharSet/effect3.png",
+    "/CharSet/effect4.png",
+    "/CharSet/effect5.png",
+    "/CharSet/eff02.png",
+    "/CharSet/eff03.png",
+    "/CharSet/eff04.png",
+    "/CharSet/eff05.png",
+    "/CharSet/eff06.png",
+    "/CharSet/eff07.png",
+    "/CharSet/eff08.png",
+    "/CharSet/eff09.png",
+    "/CharSet/eff10.png",
+    "/CharSet/eff12.png",
+    "/CharSet/eff13.png",
+    "/CharSet/eff14.png",
+    "/CharSet/eff15.png",
+    "/CharSet/eff16.png",
+    "/CharSet/eff17.png",
+    "/CharSet/eff18.png",
+    "/CharSet/eff20.png",
+    "/Picture/baby.png",
+    "*/CharSet/awake1.png",
+    "/CharSet/awake2.png",
+    "*/Sound/change.opus",
+    "/Sound/muri.opus",
+    "/Sound/buzz3.opus",
+    "/Sound/ding.opus",
+    "/Sound/drum1.opus",
+    "/Sound/drum2.opus",
+    "/Sound/foot9.opus",
+    "/Sound/Rain1.opus",
+    "/Sound/foot13.opus",
+    "/Sound/attack.opus",
+    "/Sound/awake.opus"
+  ],
+  "0006": [
+    "/Map0074.lmu",
+    "/ChipSet/darkness.png"
+  ],
+  "0008": [
+    "/Map0009.lmu",
+    "/Picture/mu.png",
+    "/Picture/mu(u).png"
+  ],
+  "0027": [
+    "/CharSet/objects4.png"
+  ],
+  "0036": [
+    "/CharSet/maids2.png"
+  ],
+  "0037": [
+    "/Map0015.lmu",
+    "*/Map0075.lmu",
+    "/ChipSet/darkness.png",
+    "/CharSet/maids.png"
+  ],
+  "0041": [
+    "/Picture/flyforward.png",
+    "/Picture/flyback.png",
+    "/Picture/flydown.png",
+    "/Picture/flyup.png"
+  ],
+  "0058": [
+    "/Map0043.lmu"
+  ],
+  "0065": [
+    "/Panorama/island house.png"
+  ],
+  "0066": [
+    "/Map0030.lmu"
+  ],
+  "0067": [
+    "/Map0098.lmu",
+    "/CharSet/Actor2.png"
+  ],
+  "0069": [
+    "/Map0098.lmu",
+    "/ChipSet/moonB.png"
+  ],
+  "0070": [
+    "/Map0073.lmu",
+    "/ChipSet/hothouse.png",
+    "/CharSet/mons5.png",
+    "/CharSet/maids.png",
+    "/Picture/hothouse roof.png",
+    "/Picture/hothouse roofB.png"
+  ],
+  "0077": [
+    "/Map0096.lmu",
+    "/Panorama/monoB.png",
+    "/ChipSet/monoworld.png",
+    "/CharSet/npc1.png",
+    "/CharSet/mons4.png",
+    "/CharSet/mons6.png",
+    "/CharSet/mons1.png"
+  ],
+  "0090": [
+    "/CharSet/Actor2.png"
+  ],
+  "0098": [
+    "*/Map0067.lmu",
+    "/CharSet/Actor2.png",
+    "*/Map0069.lmu",
+    "/Panorama/street.png",
+    "/ChipSet/swamp.png"
+  ]
+}

@@ -1661,175 +1661,8 @@
   "1977": [
     "/Picture/ouri picture1.png"
   ],
-  "2048": [
-    "/Panorama/21keb_panorama_18.bmp",
-    "/Panorama/21keb_panorama_25.bmp",
-    "/Panorama/21keb_panorama_26.bmp",
-    "/Panorama/21keb_panorama_27.bmp",
-    "/Panorama/21keb_panorama_28.bmp",
-    "/Panorama/21keb_panorama_29.bmp",
-    "/Panorama/21keb_panorama_30.bmp",
-    "/Panorama/21keb_panorama_31.bmp",
-    "/Panorama/21keb_panorama_32.bmp",
-    "/Panorama/21keb_panorama_33.bmp",
-    "/Panorama/21keb_panorama_34.bmp",
-    "/Panorama/21keb_panorama_35.bmp",
-    "/Panorama/21keb_panorama_36.bmp",
-    "/Panorama/21keb_panorama_37.bmp"
-  ],
-  "2052": [
-    "/Picture/JIVV Leaves.png",
-    "/CharSet/JIVV Butterflies.png",
-    "/CharSet/JIVV Tiny Butterflies.png",
-    "/Music/mypn_organic_full.opus"
-  ],
-  "2101": [
-    "/Map2102.lmu"
-  ],
-  "2115": [
-    "/Panorama/21keb_panorama_14B.bmp",
-    "/Panorama/21keb_panorama_9.bmp",
-    "/Panorama/21keb_panorama_14.bmp",
-    "/Panorama/21keb_panorama_11.bmp",
-    "/Panorama/21keb_panorama_9B.bmp",
-    "/Panorama/21keb_panorama_13.bmp",
-    "/Panorama/21keb_panorama_12.bmp"
-  ],
-  "2183": [
-    "/Map2182.lmu",
-    "/Panorama/towanota_panorama_1.bmp",
-    "/ChipSet/towanota_chip1.bmp",
-    "/CharSet/towanota_charset_2.bmp"
-  ],
-  "2221": [
-    "/Picture/blursky.png",
-    "/Picture/eyeguy1.png",
-    "/Picture/eyeguy2.png",
-    "/Picture/eyeguy3.png"
-  ],
-  "2223": [
-    "/Picture/ihopeitcanhelp2.png",
-    "/Picture/ihopeitcanhelp3.png",
-    "/Picture/ihopeitcanhelp4.png",
-    "/Picture/backalive.png",
-    "/Picture/hessohappy.png",
-    "/Picture/hessohappy2.png",
-    "/Picture/hessohappy3.png",
-    "/Picture/bloodypapershow.png",
-    "/Picture/■.png"
-  ],
-  "2224": [
-    "/Picture/NOISEFLASHCHASE.png",
-    "/Picture/backgroundthing.png",
-    "/Picture/urotsukizoomscene.png",
-    "/Picture/urotsukizoomscene2.png",
-    "/Picture/urotsukizoomscene3.png",
-    "/Picture/spookycircle1.png",
-    "/Picture/spookycircle2.png",
-    "/Picture/spookycircle3.png",
-    "/Picture/urolookingout.png",
-    "/Picture/appear1.png",
-    "/Picture/appear2.png",
-    "/Picture/appear3.png",
-    "/Picture/appear4.png",
-    "/Picture/appear5.png",
-    "/Picture/uroside.png",
-    "/Picture/uroside3.png",
-    "/Picture/uroside4.png",
-    "/Picture/uroside2.png",
-    "/Picture/pickitup1.png",
-    "/Picture/pickitup2.png"
-  ],
-  "2229": [
-    "*/Picture/namedude_paint1.png",
-    "/Picture/namedude_paint2.png",
-    "/Picture/namedude_paint3.png",
-    "/Picture/namedude_paint4.png",
-    "/Picture/namedude_paint5.png",
-    "/Picture/namedude_paint6.png",
-    "*/Map2230.lmu",
-    "/ChipSet/namedude_maze.png"
-  ],
-  "2230": [
-    "/Picture/namedude_static1.png"
-  ],
-  "2238": [
-    "/Sound/Colby_Dramatic_Randomizer.opus",
-    "/CharSet/Colby_Charset_07.png",
-    "/CharSet/Colby_Charset_08.png",
-    "/ChipSet/Colby_Chipset_07.png",
-    "/Panorama/Colby_Pan_07.png",
-    "/ChipSet/Colby_Chipset_09.png",
-    "/Panorama/Colby_Pan_08.png",
-    "/ChipSet/Colby_Chipset_08.png",
-    "/Panorama/Colby_Pan_09.png"
-  ],
-  "2239": [
-    "/ChipSet/Colby_Chipset_03.png"
-  ],
-  "2281": [
-    { "x": "50/58", "y": "71/59", "files": [
-      "/Map2282.lmu",
-      "/Picture/Colby_Picture_27.png",
-      "/Picture/Colby_Picture_30.png",
-      "/Music/vyvyde - blinded4.opus"
-    ]}
-  ],
-  "2283": [
-    "*/Map2281.lmu",
-    "/Panorama/Colby_Pan_04.png",
-    "/ChipSet/Colby_Chipset_05.png",
-    "/CharSet/Colby_Charset_08.png",
-    "*/Map1314.lmu",
-    "/ChipSet/Nuaah's_Map_chip_XIX.png"
-  ],
-  "2304": [
-    "/Map2305.lmu",
-    "/ChipSet/doctor_草原2.png"
-  ],
-  "2306": [
-    "/Map2307.lmu",
-    "/CharSet/wataru 主人公　カヌー移動.png"
-  ],
-  "2307": [
-    "/CharSet/doctor_熊.png",
-    "/Map2308.lmu"
-  ],
-  "2452": [
-    "*/ChipSet/61024_Chip_black.png",
-    "*/Picture/61024_pic_train_2.png",
-    "/Picture/61024_pic_train_3.png",
-    "/Picture/61024_pic_train_4.png",
-    "/Picture/61024_pic_train_5.png",
-    "/Picture/61024_pic_train_6.png",
-    "/CharSet/61024_Char_train2.png",
-    "/CharSet/61024_Char_train1.png"
-  ],
-  "2453": [
-    "/Picture/61024_pic_mado5.png",
-    "/Picture/61024_pic_mado0.png",
-    "/Picture/61024_pic_mado1.png",
-    "/Picture/61024_pic_kirikae.png",
-    "/Picture/61024_pic_mado3.4.png",
-    "/Panorama/61024_pano_train2.png"
-  ],
-  "2472": [
-    "/Panorama/meta_purpleroomoff.png",
-    "/Panorama/meta_purpleroomevent1.png",
-    "/Panorama/meta_purpleroomevent2.png",
-    "/Panorama/meta_purpleroomevent3.png",
-    "/Panorama/meta_purpleroomevent4.png",
-    "/Panorama/meta_purpleroomevent5.png",
-    "/Panorama/meta_purpleroomevent6.png",
-    "/Panorama/meta_purpleroomevent7.png",
-    "/Panorama/meta_purpleroomevent8.png",
-    "/Panorama/meta_purpleroomevent9.png",
-    "/Panorama/meta_purpleroomevent10.png",
-    "/Panorama/meta_purpleroomevent11.png",
-    "/Panorama/meta_purpleroomevent12.png",
-    "/Music/meta_bloom.opus"
-  ],
   "2011": [
+    { "slow": true, "files": [
     "/Panorama/cheo_button64.png",
     "/Panorama/cheo_button65.png",
     "/Panorama/cheo_button66.png",
@@ -2094,6 +1927,174 @@
     "/Panorama/cheo_button325.png",
     "/Panorama/cheo_button326.png"
     ]}
+  ],
+  "2048": [
+    "/Panorama/21keb_panorama_18.bmp",
+    "/Panorama/21keb_panorama_25.bmp",
+    "/Panorama/21keb_panorama_26.bmp",
+    "/Panorama/21keb_panorama_27.bmp",
+    "/Panorama/21keb_panorama_28.bmp",
+    "/Panorama/21keb_panorama_29.bmp",
+    "/Panorama/21keb_panorama_30.bmp",
+    "/Panorama/21keb_panorama_31.bmp",
+    "/Panorama/21keb_panorama_32.bmp",
+    "/Panorama/21keb_panorama_33.bmp",
+    "/Panorama/21keb_panorama_34.bmp",
+    "/Panorama/21keb_panorama_35.bmp",
+    "/Panorama/21keb_panorama_36.bmp",
+    "/Panorama/21keb_panorama_37.bmp"
+  ],
+  "2052": [
+    "/Picture/JIVV Leaves.png",
+    "/CharSet/JIVV Butterflies.png",
+    "/CharSet/JIVV Tiny Butterflies.png",
+    "/Music/mypn_organic_full.opus"
+  ],
+  "2101": [
+    "/Map2102.lmu"
+  ],
+  "2115": [
+    "/Panorama/21keb_panorama_14B.bmp",
+    "/Panorama/21keb_panorama_9.bmp",
+    "/Panorama/21keb_panorama_14.bmp",
+    "/Panorama/21keb_panorama_11.bmp",
+    "/Panorama/21keb_panorama_9B.bmp",
+    "/Panorama/21keb_panorama_13.bmp",
+    "/Panorama/21keb_panorama_12.bmp"
+  ],
+  "2183": [
+    "/Map2182.lmu",
+    "/Panorama/towanota_panorama_1.bmp",
+    "/ChipSet/towanota_chip1.bmp",
+    "/CharSet/towanota_charset_2.bmp"
+  ],
+  "2221": [
+    "/Picture/blursky.png",
+    "/Picture/eyeguy1.png",
+    "/Picture/eyeguy2.png",
+    "/Picture/eyeguy3.png"
+  ],
+  "2223": [
+    "/Picture/ihopeitcanhelp2.png",
+    "/Picture/ihopeitcanhelp3.png",
+    "/Picture/ihopeitcanhelp4.png",
+    "/Picture/backalive.png",
+    "/Picture/hessohappy.png",
+    "/Picture/hessohappy2.png",
+    "/Picture/hessohappy3.png",
+    "/Picture/bloodypapershow.png",
+    "/Picture/■.png"
+  ],
+  "2224": [
+    "/Picture/NOISEFLASHCHASE.png",
+    "/Picture/backgroundthing.png",
+    "/Picture/urotsukizoomscene.png",
+    "/Picture/urotsukizoomscene2.png",
+    "/Picture/urotsukizoomscene3.png",
+    "/Picture/spookycircle1.png",
+    "/Picture/spookycircle2.png",
+    "/Picture/spookycircle3.png",
+    "/Picture/urolookingout.png",
+    "/Picture/appear1.png",
+    "/Picture/appear2.png",
+    "/Picture/appear3.png",
+    "/Picture/appear4.png",
+    "/Picture/appear5.png",
+    "/Picture/uroside.png",
+    "/Picture/uroside3.png",
+    "/Picture/uroside4.png",
+    "/Picture/uroside2.png",
+    "/Picture/pickitup1.png",
+    "/Picture/pickitup2.png"
+  ],
+  "2229": [
+    "*/Picture/namedude_paint1.png",
+    "/Picture/namedude_paint2.png",
+    "/Picture/namedude_paint3.png",
+    "/Picture/namedude_paint4.png",
+    "/Picture/namedude_paint5.png",
+    "/Picture/namedude_paint6.png",
+    "*/Map2230.lmu",
+    "/ChipSet/namedude_maze.png"
+  ],
+  "2230": [
+    "/Picture/namedude_static1.png"
+  ],
+  "2238": [
+    "/Sound/Colby_Dramatic_Randomizer.opus",
+    "/CharSet/Colby_Charset_07.png",
+    "/CharSet/Colby_Charset_08.png",
+    "/ChipSet/Colby_Chipset_07.png",
+    "/Panorama/Colby_Pan_07.png",
+    "/ChipSet/Colby_Chipset_09.png",
+    "/Panorama/Colby_Pan_08.png",
+    "/ChipSet/Colby_Chipset_08.png",
+    "/Panorama/Colby_Pan_09.png"
+  ],
+  "2239": [
+    "/ChipSet/Colby_Chipset_03.png"
+  ],
+  "2281": [
+    { "x": "50/58", "y": "71/59", "files": [
+      "/Map2282.lmu",
+      "/Picture/Colby_Picture_27.png",
+      "/Picture/Colby_Picture_30.png",
+      "/Music/vyvyde - blinded4.opus"
+    ]}
+  ],
+  "2283": [
+    "*/Map2281.lmu",
+    "/Panorama/Colby_Pan_04.png",
+    "/ChipSet/Colby_Chipset_05.png",
+    "/CharSet/Colby_Charset_08.png",
+    "*/Map1314.lmu",
+    "/ChipSet/Nuaah's_Map_chip_XIX.png"
+  ],
+  "2304": [
+    "/Map2305.lmu",
+    "/ChipSet/doctor_草原2.png"
+  ],
+  "2306": [
+    "/Map2307.lmu",
+    "/CharSet/wataru 主人公　カヌー移動.png"
+  ],
+  "2307": [
+    "/CharSet/doctor_熊.png",
+    "/Map2308.lmu"
+  ],
+  "2452": [
+    "*/ChipSet/61024_Chip_black.png",
+    "*/Picture/61024_pic_train_2.png",
+    "/Picture/61024_pic_train_3.png",
+    "/Picture/61024_pic_train_4.png",
+    "/Picture/61024_pic_train_5.png",
+    "/Picture/61024_pic_train_6.png",
+    "/CharSet/61024_Char_train2.png",
+    "/CharSet/61024_Char_train1.png"
+  ],
+  "2453": [
+    "/Picture/61024_pic_mado5.png",
+    "/Picture/61024_pic_mado0.png",
+    "/Picture/61024_pic_mado1.png",
+    "/Picture/61024_pic_kirikae.png",
+    "/Picture/61024_pic_mado3.4.png",
+    "/Panorama/61024_pano_train2.png"
+  ],
+  "2472": [
+    "/Panorama/meta_purpleroomoff.png",
+    "/Panorama/meta_purpleroomevent1.png",
+    "/Panorama/meta_purpleroomevent2.png",
+    "/Panorama/meta_purpleroomevent3.png",
+    "/Panorama/meta_purpleroomevent4.png",
+    "/Panorama/meta_purpleroomevent5.png",
+    "/Panorama/meta_purpleroomevent6.png",
+    "/Panorama/meta_purpleroomevent7.png",
+    "/Panorama/meta_purpleroomevent8.png",
+    "/Panorama/meta_purpleroomevent9.png",
+    "/Panorama/meta_purpleroomevent10.png",
+    "/Panorama/meta_purpleroomevent11.png",
+    "/Panorama/meta_purpleroomevent12.png",
+    "/Music/meta_bloom.opus"
   ],
   "2997": [
     "/Picture/Nadeko_foodTime1.png",

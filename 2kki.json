@@ -1263,6 +1263,19 @@
     "/Panorama/水色の絵本.png",
     "*/Music/spelude-hibinega.opus"
   ],
+  "0734": [
+    "/Panorama/An_denkugi.png",
+    "/Music/怪奇工事_Anon.opus",
+    "/ChipSet/An_003.png",
+    "/CharSet/An_setszoku.png",
+    "/CharSet/shigurin-mohikun01.xyz",
+    "/CharSet/lemchar.png",
+    "/CharSet/horatsuki 12.png",
+    "/CharSet/takikomi_2.png",
+    "/CharSet/kura18+A.png",
+    "/CharSet/An_たまりば2っき用改良版.png",
+    "/CharSet/An_hei_moff.png"
+  ],
   "0735": [
     "/Panorama/An_soutouB.png"
   ],
@@ -1437,6 +1450,14 @@
     "/Sound/hee(♀).opus",
     "/Sound/冷気2.opus",
     "/Sound/2i9_se5.opus"
+  ],
+  "1195": [
+    "/Panorama/lempan7.png",
+    "/Music/persistant_slow.opus",
+    "/ChipSet/lemchip4.png",
+    "/CharSet/lemchar.png",
+    "/CharSet/system_kyouyu_gazou06.png",
+    "/Panorama/lempan8.png"
   ],
   "1248": [
     "/Map1249.lmu",
@@ -2138,6 +2159,7 @@
     "/Picture/fluxide_oroom3.png"
   ],
   "2997": [
+    {"x": 198, "y": 13, "files": [
     "/Picture/Nadeko_foodTime1.png",
     "/Picture/Nadeko_foodTime2.png",
     "/Picture/Nadeko_foodTime3.png",
@@ -2146,6 +2168,18 @@
     "/Picture/Nadeko_foodTime6.png",
     "/Picture/Nadeko_foodTime7.png",
     "/Picture/Nadeko_foodTime8.png"
+    ]}
+  ],
+  "3000": [
+    "/Panorama/Nadeko_sixpm1.png",
+    "/Panorama/Nadeko_sixpm2.png",
+    "/Panorama/Nadeko_sixpm3.png",
+    "/Panorama/Nadeko_sixpm4.png",
+    "/Panorama/Nadeko_sixpm5.png",
+    "/Panorama/Nadeko_sixpm6.png"
+  ],
+  "3704": [
+    "/Panorama/Nadeko_likerain.png",
   ],
   "3116": [
     "/Picture/mizkura_animeB1.png",

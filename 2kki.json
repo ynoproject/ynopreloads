@@ -2158,8 +2158,18 @@
     "/Picture/fluxide_oroom2.png",
     "/Picture/fluxide_oroom3.png"
   ],
+  "2817": [
+    "/Panorama/Nadeko_noon.png",
+    "/ChipSet/NadekoTravel.png"
+  ],
+  "2818": [
+    "/Panorama/Nadeko_wheel.png",
+    "/CharSet/Nadeko-8.png",
+    "/Picture/Nadeko_seamapbroken.png"
+  ],
   "2997": [
-    {"x": 198, "y": 13, "files": [
+    "/Panorama/Nadeko_fourteen.png",
+    "/CharSet/skei.png",
     "/Picture/Nadeko_foodTime1.png",
     "/Picture/Nadeko_foodTime2.png",
     "/Picture/Nadeko_foodTime3.png",
@@ -2168,7 +2178,6 @@
     "/Picture/Nadeko_foodTime6.png",
     "/Picture/Nadeko_foodTime7.png",
     "/Picture/Nadeko_foodTime8.png"
-    ]}
   ],
   "3000": [
     "/Panorama/Nadeko_sixpm1.png",
@@ -2176,10 +2185,26 @@
     "/Panorama/Nadeko_sixpm3.png",
     "/Panorama/Nadeko_sixpm4.png",
     "/Panorama/Nadeko_sixpm5.png",
-    "/Panorama/Nadeko_sixpm6.png"
+    "/Panorama/Nadeko_sixpm6.png",
+    "/ChipSet/NadekoCave.png"
+  ],
+  "3703": [
+    "/Panorama/Nadeko_forever.png",
+    "/ChipSet/NadekoAbstract.png",
+    "/CharSet/Nadeko-12.png",
+    "/Music/inside - Negatic.opus",
+    "/Panorama/Nadeko-beginning.png"
   ],
   "3704": [
-    "/Panorama/Nadeko_likerain.png"
+    "/Panorama/Nadeko_likerain.png",
+    "/Panorama/Nadeko-cyber.png",
+    "/Panorama/nadeko-night6.png",
+    "/Panorama/nadeko-day3.png",
+    "/Music/lavenderhearts_horizons.opus"
+  ],
+  "3707": [
+    "/Panorama/Nadeko-TheJOURNEY.png",
+    "/CharSet/Nadeko-11.png"
   ],
   "3116": [
     "/Picture/mizkura_animeB1.png",
